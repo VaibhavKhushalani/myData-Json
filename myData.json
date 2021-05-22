@@ -2,7 +2,9 @@
   {
     "id": 1,
     "name": "Vaibhav khush",
-    "username": "Bret",
+    "username":{ 
+    		"pdf":"https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+    			}
     "email": "Sincere@april.biz",
     "address": {
       "street": "Kulas Light",
