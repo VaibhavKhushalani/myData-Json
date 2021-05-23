@@ -67,7 +67,7 @@
         ]
       },
       {
-        "sub_name": "Basic Mechanical Engineering",
+        "sub_name": "Basic Mechanical Engg",
         "units": [
           {
             "unit_id": "Unit1",
@@ -102,7 +102,7 @@
         ]
       },
       {
-        "sub_name": "Basic Electrical Engineering",
+        "sub_name": "Basic Electrical Engg",
         "units": [
           {
             "unit_id": "Unit1",
@@ -301,7 +301,7 @@
         ]
       },
       {
-        "sub_name": "Programming for Problem Solving",
+        "sub_name": "PPS",
         "units": [
           {
             "unit_id": "Unit1",
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "sub_name": "Basic Civil Engineering",
+        "sub_name": "Basic Civil Engg",
         "units": [
           {
             "unit_id": "Unit1",
