@@ -1,0 +1,1729 @@
+[
+  {
+    "id": 0,
+    "name": "Ist semester",
+    "description": "Ist semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-I",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Calculus",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Sequences and Series",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Fourier Series",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Multivariable Calculus (Differentiation)",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Multivariable Calculus (Integration)",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Chemistry",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Water",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Organic Fuels",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Corrosion and its control",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Engineering Materials",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Organic reaction mechanism and introduction of drugs",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Basic Mechanical Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Pumps and IC Engines",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Refrigeration and Air Conditioning",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transmission of Power",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Primary Manufacturing Processes",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Engineering Materials and Heat Treatment of Steel",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Electrical Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "DC Circuits",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "AC Circuits",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Transformers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Electrical Machines",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Power Converters",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Electrical Installations",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Communication Skills",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "IInd semester",
+    "description": "IInd semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "IIIrd semester",
+    "description": "IIIrd semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "IVth semester",
+    "description": "IVth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vth semester",
+    "description": "Vth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "VIth semester",
+    "description": "VIth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "VIIth semester",
+    "description": "VIIth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "VIII semester",
+    "description": "VIII semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Sample Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "YouTube",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  }
+]
