@@ -448,149 +448,185 @@
     "description": "IIIrd semester",
     "subjects": [
       {
-        "sub_name": "Engineering Mathematics-II",
+        "sub_name": "Advanced Engg Mathematics",
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Matrices",
+            "name": "Random Variables",
             "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "First order ordinary differential equations",
+            "name": "Binomial Distribution",
             "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Ordinary differential equations of higher orders",
+            "name": "Historical Development",
             "link": "linker.com"
           },
           {
             "unit_id": "Unit4",
-            "name": "Partial Differential Equations – First order",
+            "name": "Optimization using Differential Calculus",
             "link": "linker.com"
           },
           {
             "unit_id": "Unit5",
-            "name": "Partial Differential Equations– Higher order",
+            "name": "Linear Programming",
             "link": "linker.com"
           }
         ]
       },
 
       {
-        "sub_name": "Engineering Physics",
+        "sub_name": "DSA",
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Wave Optics",
-            "link": "link.com"
+            "name": "Stacks",
+            "link": "https://drive.google.com/file/d/1puUYK7C61XBxPxJudwgWLJ-OOLsIEkHT/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "Quantum Mechanics",
-            "link": "linker.com"
+            "name": "Queues",
+            "link": "https://drive.google.com/file/d/1o4_Cq9sXNf-D1fanG7_uPs8StAa-_fWt/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Coherence and Optical Fibers",
+            "name": "https://drive.google.com/file/d/1957wHhpPbM3Rgj3dPiURD9R8Pw6jIxbC/preview",
             "link": "linker.com"
           },
           {
             "unit_id": "Unit4",
-            "name": "Laser",
-            "link": "linker.com"
+            "name": "Trees",
+            "link": "https://drive.google.com/file/d/1-0vEnpXnU-gyEi6xjjsNBznQ-2izGkft/preview"
           },
           {
             "unit_id": "Unit5",
-            "name": "Material Science & Semiconductor Physics",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit6",
-            "name": "Introduction to Electromagnetism",
-            "link": "linker.com"
+            "name": "Graphs",
+            "link": "https://drive.google.com/file/d/1bSVxX16NYPMTTopMP-1xmUtRdd6Roqxw/preview"
           }
+          
          
         ]
       },
       {
-        "sub_name": "Programming for Problem Solving",
+        "sub_name": "Digital Electronics",
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Fundamentals of Computer",
-            "link": "link.com"
+            "name": "Fundamental concepts",
+            "link": "https://drive.google.com/file/d/1Jgad5JA8BHRjJZdE5EaJdI0e9tsUPgUa/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "Number system",
-            "link": "linker.com"
+            "name": "Minimization Techniques and Logic Gates",
+            "link": "https://drive.google.com/file/d/1teboCWRofgbjiZYr2BrqiBXrhLrux742/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "C Programming",
+            "name": "Digital Logic Gate Characteristics",
+            "link": "https://drive.google.com/file/d/1OM-ggs3yFXahQGDNs097VN-ExAm8lsXw/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Combinational Circuits",
+            "link": "https://drive.google.com/file/d/1NB5YlqZmFN5OFOLIcnCKkSf1sB5Bs2Bz/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Sequential Circuits",
+            "link": "https://drive.google.com/file/d/1Gw6lNDzYk-5D1pkLBXZ1vGFTeNnuGByy/preview"
+          },
+          {
+            "unit_id": "All Units",
+            "name": "Complete DE",
+            "link": "https://drive.google.com/file/d/150LCPuJUr5zeLPW1LSbVkJGs_sYYgSMK/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "Managerial Economics and Financial Accounting",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Basic economic concepts",
+            "link": "https://drive.google.com/file/d/1WdOiQmpx_vDYkzL4fHQCdkrN-rtRx41a/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Demand and Supply analysis",
+            "link": "https://drive.google.com/file/d/14Uqy7VwAVxh1Kwkuvzn_XuKC6sU2_FHL/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Production and Cost analysis",
+            "link": "https://drive.google.com/file/d/1cKgZ6Yg1x_Lw_mJ0Py_wvJQ1MYYErIak/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Market structure and pricing theory",
+            "link": "https://drive.google.com/file/d/1yO3o9wRvGBi68DI9ryGKCMVnoOthArdH/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Financial statement analysis",
             "link": "linker.com"
           }
         ]
       },
       {
-        "sub_name": "Basic Civil Engineering",
+        "sub_name": "Object-Oriented Programming",
         "units": [
           {
             "unit_id": "Unit1",
             "name": "Introduction",
-            "link": "link.com"
+            "link": "https://drive.google.com/file/d/10UD-Qwa1AuTQpgKv-_RP9DkYFOdN6mfa/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "Surveying",
-            "link": "linker.com"
+            "name": "Concept of OOPS",
+            "link": "https://drive.google.com/file/d/1P9Ic0Rt3szOTEi3m_3vrzyDH2qa0ia8U/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Buildings",
-            "link": "linker.com"
+            "name": "Inheritance & Polymorphism",
+            "link": "https://drive.google.com/file/d/1Y2ixHs_0OnNBQWcBZlxjVL6tDDag6yh3/preview"
           },
           {
-            "unit_id": "Unit4",
-            "name": "Transportation",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Environmental Engineering",
-            "link": "linker.com"
+            "unit_id": "All Units",
+            "name": "Complete unit",
+            "link": "https://drive.google.com/file/d/1TU3IpGfqMdrcYcih88Q9myaFk1CJmHCT/preview"
           }
         ]
       },
       {
-        "sub_name": "Human Values",
+        "sub_name": "Software Engineering",
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Course Introduction",
-            "link": "link.com"
+            "name": "Introduction",
+            "link": "https://drive.google.com/file/d/1tL93ccb-RNwATY9-6Y6LkOsYlYR3ReFr/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "Understanding Harmony in the Human Being",
-            "link": "linker.com"
+            "name": "Software Project Management",
+            "link": "https://drive.google.com/file/d/1LDjslt9RBf287orNEXmdIu-IGwSoOzgj/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Understanding Harmony in the Family and Society",
-            "link": "linker.com"
+            "name": "Requirement Analysis",
+            "link": "https://drive.google.com/file/d/1oFxY8OAaxWzXfGR8rOHgFBKnrWXdJ2Et/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Understanding Harmony in the Nature and Existence",
-            "link": "linker.com"
+            "name": "Software Design",
+            "link": "https://drive.google.com/file/d/1DU-sQMjOt0HKJkFBfUWnHTA7K3r7Z4_t/preview"
           },
           {
             "unit_id": "Unit5",
-            "name": "Understanding of Harmony on Professional Ethics",
-            "link": "linker.com"
+            "name": "Object Oriented Analysis",
+            "link": "https://drive.google.com/file/d/1TH_DogIuDIou7nfIDl6HAw-QoXKKjvhR/preview"
           }
         ]
       },
