@@ -14,7 +14,7 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Sequences and Series",
+            "name": "Sequences & Series",
             "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
           },
           {
@@ -50,7 +50,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Corrosion and its control",
+            "name": "Corrosion & its control",
             "link": "linker.com"
           },
           {
@@ -60,10 +60,9 @@
           },
           {
             "unit_id": "Unit5",
-            "name": "Organic reaction mechanism and introduction of drugs",
+            "name": "Organic reaction mechanism & introduction of drugs",
             "link": "linker.com"
           }
-         
         ]
       },
       {
@@ -76,12 +75,12 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Pumps and IC Engines",
+            "name": "Pumps & IC Engines",
             "link": "linker.com"
           },
           {
             "unit_id": "Unit3",
-            "name": "Refrigeration and Air Conditioning",
+            "name": "Refrigeration & Air Conditioning",
             "link": "linker.com"
           },
           {
@@ -96,7 +95,7 @@
           },
           {
             "unit_id": "Unit6",
-            "name": "Engineering Materials and Heat Treatment of Steel",
+            "name": "Engineering Materials & Heat Treatment of Steel",
             "link": "linker.com"
           }
         ]
@@ -195,36 +194,6 @@
             "link": "linker.com"
           }
         ]
-      },
-      {
-        "sub_name": "YouTube",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
       }
     ]
   },
@@ -279,7 +248,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Coherence and Optical Fibers",
+            "name": "Coherence & Optical Fibers",
             "link": "linker.com"
           },
           {
@@ -297,7 +266,6 @@
             "name": "Introduction to Electromagnetism",
             "link": "linker.com"
           }
-         
         ]
       },
       {
@@ -360,58 +328,28 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Understanding Harmony in the Human Being",
+            "name": "Harmony in the Human Being",
             "link": "linker.com"
           },
           {
             "unit_id": "Unit3",
-            "name": "Understanding Harmony in the Family and Society",
+            "name": "Harmony in the Family & Society",
             "link": "linker.com"
           },
           {
             "unit_id": "Unit4",
-            "name": "Understanding Harmony in the Nature and Existence",
+            "name": "Harmony in the Nature and Existence",
             "link": "linker.com"
           },
           {
             "unit_id": "Unit5",
-            "name": "Understanding of Harmony on Professional Ethics",
+            "name": "Harmony on Professional Ethics",
             "link": "linker.com"
           }
         ]
       },
       {
         "sub_name": "Sample Papers",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "YouTube",
         "units": [
           {
             "unit_id": "Unit1",
@@ -506,8 +444,6 @@
             "name": "Graphs",
             "link": "https://drive.google.com/file/d/1bSVxX16NYPMTTopMP-1xmUtRdd6Roqxw/preview"
           }
-          
-         
         ]
       },
       {
@@ -520,12 +456,12 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Minimization Techniques and Logic Gates",
+            "name": "Minimization Techniques",
             "link": "https://drive.google.com/file/d/1teboCWRofgbjiZYr2BrqiBXrhLrux742/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Digital Logic Gate Characteristics",
+            "name": "Digital Logic Gate",
             "link": "https://drive.google.com/file/d/1OM-ggs3yFXahQGDNs097VN-ExAm8lsXw/preview"
           },
           {
@@ -539,8 +475,8 @@
             "link": "https://drive.google.com/file/d/1Gw6lNDzYk-5D1pkLBXZ1vGFTeNnuGByy/preview"
           },
           {
-            "unit_id": "All Units",
-            "name": "Complete DE",
+            "unit_id": "Complete DE Notes",
+            "name": "All units",
             "link": "https://drive.google.com/file/d/150LCPuJUr5zeLPW1LSbVkJGs_sYYgSMK/preview"
           }
         ]
@@ -555,22 +491,22 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Demand and Supply analysis",
+            "name": "Demand & Supply",
             "link": "https://drive.google.com/file/d/14Uqy7VwAVxh1Kwkuvzn_XuKC6sU2_FHL/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Production and Cost analysis",
+            "name": "Production & Cost analysis",
             "link": "https://drive.google.com/file/d/1cKgZ6Yg1x_Lw_mJ0Py_wvJQ1MYYErIak/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Market structure and pricing theory",
+            "name": "Market structure & pricing theory",
             "link": "https://drive.google.com/file/d/1yO3o9wRvGBi68DI9ryGKCMVnoOthArdH/preview"
           },
           {
             "unit_id": "Unit5",
-            "name": "Financial statement analysis",
+            "name": "Financial statement",
             "link": "linker.com"
           }
         ]
@@ -659,36 +595,6 @@
             "link": "linker.com"
           }
         ]
-      },
-      {
-        "sub_name": "YouTube",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Spiderman",
-            "link": "https://www.youtube.com/embed/HBoIkU3_pmY"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
       }
     ]
   },
@@ -743,7 +649,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Coherence and Optical Fibers",
+            "name": "Coherence & Optical Fibers",
             "link": "linker.com"
           },
           {
@@ -761,7 +667,6 @@
             "name": "Introduction to Electromagnetism",
             "link": "linker.com"
           }
-         
         ]
       },
       {
@@ -846,36 +751,6 @@
       },
       {
         "sub_name": "Sample Papers",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "YouTube",
         "units": [
           {
             "unit_id": "Unit1",
@@ -957,7 +832,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Coherence and Optical Fibers",
+            "name": "Coherence & Optical Fibers",
             "link": "linker.com"
           },
           {
@@ -975,7 +850,6 @@
             "name": "Introduction to Electromagnetism",
             "link": "linker.com"
           }
-         
         ]
       },
       {
@@ -1060,36 +934,6 @@
       },
       {
         "sub_name": "Sample Papers",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "YouTube",
         "units": [
           {
             "unit_id": "Unit1",
@@ -1171,7 +1015,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Coherence and Optical Fibers",
+            "name": "Coherence & Optical Fibers",
             "link": "linker.com"
           },
           {
@@ -1189,7 +1033,6 @@
             "name": "Introduction to Electromagnetism",
             "link": "linker.com"
           }
-         
         ]
       },
       {
@@ -1274,36 +1117,6 @@
       },
       {
         "sub_name": "Sample Papers",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "YouTube",
         "units": [
           {
             "unit_id": "Unit1",
@@ -1403,7 +1216,6 @@
             "name": "Introduction to Electromagnetism",
             "link": "linker.com"
           }
-         
         ]
       },
       {
@@ -1488,36 +1300,6 @@
       },
       {
         "sub_name": "Sample Papers",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "YouTube",
         "units": [
           {
             "unit_id": "Unit1",
@@ -1617,7 +1399,6 @@
             "name": "Introduction to Electromagnetism",
             "link": "linker.com"
           }
-         
         ]
       },
       {
@@ -1702,36 +1483,6 @@
       },
       {
         "sub_name": "Sample Papers",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "YouTube",
         "units": [
           {
             "unit_id": "Unit1",
