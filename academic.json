@@ -10,7 +10,7 @@
           {
             "unit_id": "Unit1",
             "name": "Calculus",
-            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+            "link": "https://drive.google.com/file/d/1puUYK7C61XBxPxJudwgWLJ-OOLsIEkHT/view?usp=sharing"
           },
           {
             "unit_id": "Unit2",
@@ -546,7 +546,7 @@
         ]
       },
       {
-        "sub_name": "Managerial Economics and Financial Accounting",
+        "sub_name": "MEFA",
         "units": [
           {
             "unit_id": "Unit1",
@@ -576,7 +576,7 @@
         ]
       },
       {
-        "sub_name": "Object-Oriented Programming",
+        "sub_name": "OOPs",
         "units": [
           {
             "unit_id": "Unit1",
@@ -665,8 +665,8 @@
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
+            "name": "Spiderman",
+            "link": "https://www.youtube.com/embed/HBoIkU3_pmY"
           },
           {
             "unit_id": "Unit2",
