@@ -1,7 +1,7 @@
  [{
     "id": 0,
-    "instagram": "vaibhav_khushalani",
-    "mail": "vaibhavkhushalani04@gmail.com",
+    "instagram": "https://www.instagram.com/vaibhav_khushalani/",
+    "mail": "mailto:vaibhavkhushalani04@gmail.com",
     "date": "10 sep 2001",
     "title": "WHAT U WANT BE ?",
     "author": "Vaibhav Khushalani",
@@ -12,8 +12,8 @@
   },
   {
     "id": 1,
-    "instagram": "vaibhav_khushalani",
-    "mail": "vaibhavkhushalani04@gmail.com",
+    "instagram": "https://www.instagram.com/saurabhpansari/",
+    "mail": "mailto:vaibhavkhushalani04@gmail.com",
     "date": "15 Aug 2020",
     "title": "Trust is everything",
     "author": "Saurabh pansari",
