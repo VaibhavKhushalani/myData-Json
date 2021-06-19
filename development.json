@@ -68,19 +68,19 @@
  "Websites":[
     {
     "Website_name":"Tutorials Point",
-    "Users":"18 M",
-    "Link":"https://www.tutorialspoint.com/cplusplus/index.htm"
+    "Users":"22 M",
+    "Link":"https://www.tutorialspoint.com/python/index.htm"
 },
  {
     "Website_name":"Geeks for Geeks",
     "Users":"1M",
-    "Link":"https://www.geeksforgeeks.org/c-plus-plus/"
+    "Link":"https://www.geeksforgeeks.org/python-programming-language/"
 }],
 
   "Books":[
     {
-    "Book_name":"C is for content",
-    "Author":"Fuzia",
+    "Book_name":"Phyton is for content",
+    "Author":"Pansari",
     "Link":"https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
 },
 {
@@ -114,13 +114,13 @@
  "Websites":[
     {
     "Website_name":"Tutorials Point",
-    "Users":"18 M",
-    "Link":"https://www.tutorialspoint.com/cplusplus/index.htm"
+    "Users":"2 M",
+    "Link":"https://www.tutorialspoint.com/java/index.htm"
 },
  {
     "Website_name":"Geeks for Geeks",
-    "Users":"1M",
-    "Link":"https://www.geeksforgeeks.org/c-plus-plus/"
+    "Users":"100M",
+    "Link":"https://www.geeksforgeeks.org/java/"
 }],
 
   "Books":[
