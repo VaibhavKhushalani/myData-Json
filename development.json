@@ -50,13 +50,13 @@
     "Course":"Phyton Language" ,
     "Avg": "Avg.Time: 1 Months",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details":"C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details":"Phyton programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
     "Youtuber":[
     {
     "Youtuber_name":"Code with Harry",
     "Subcribers":"18 M",
     "Views":"10 M",
-    "Link":"https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL"
+    "Link":"https://youtube.com/playlist?list=PLKKfKV1b9e8r_GAb4BQNc2ZSh6S7NwK9W"
 },
 {
     "Youtuber_name":"Apna College",
@@ -84,7 +84,7 @@
     "Link":"https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
 },
 {
-    "Book_name":"Rich Dad Poor Dad",
+    "Book_name":"Phyton",
     "Author":"Robert T.Kiyosaki",
     "Link":"https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
 }]
@@ -102,13 +102,13 @@
     "Youtuber_name":"Code with Harry",
     "Subcribers":"18 M",
     "Views":"10 M",
-    "Link":"https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL"
+    "Link":"https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
 },
 {
     "Youtuber_name":"Apna College",
     "Subcribers":"10 M",
     "Views":"1 M",
-    "Link":"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+    "Link":"https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
 }],
   
  "Websites":[
@@ -125,12 +125,12 @@
 
   "Books":[
     {
-    "Book_name":"C is for content",
+    "Book_name":"Java is for content",
     "Author":"Fuzia",
     "Link":"https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
 },
 {
-    "Book_name":"Rich Dad Poor Dad",
+    "Book_name":"Java",
     "Author":"Robert T.Kiyosaki",
     "Link":"https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
 }]
