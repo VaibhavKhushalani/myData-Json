@@ -1,0 +1,34 @@
+ [
+    {
+    "id": 0,
+    "Book":"C++ Language" ,
+    "Avg": "Avg.Time: 1 Months",
+    "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
+    "Link":"https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+
+ },
+ {
+    "id": 1,
+    "Book":"Phyton Language" ,
+    "Avg": "Avg.Time: 1 Months",
+    "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
+    "Link":"https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+
+    
+ },
+ {
+    "id": 2,
+    "Book":"Java Language" ,
+    "Avg": "Avg.Time: 5 Months",
+    "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
+    "Link":"https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing",
+
+    }
+   {
+    "id": 3,
+    "Book":"Java Language" ,
+    "Avg": "Avg.Time: 5 Months",
+    "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
+    "Link":"https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+}
+]
