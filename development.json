@@ -494,49 +494,95 @@
   },
   {
     "id": 5,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "JavaScript",
+    "Avg": "Avg.Time: 6 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "JavaScript is commonly used for creating web pages. It allows us to add dynamic behavior to the webpage and add special effects to the webpage. On websites, it is mainly used for validation purposes. JavaScript helps us to execute complex actions and also enables the interaction of websites with visitors.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "826K+",
+        "Link": "https://www.youtube.com/watch?v=KGkiIBTq0y0"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "162K+",
+        "Link": "https://www.youtube.com/watch?v=uGRZ2CzkFUo&list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0"
+      },
+      {
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "410K+",
+        "Link": "https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL"
+      },
+      {
+        "Youtuber_name": "Geeky Shows",
+        "Subcribers": "360K+",
+        "Views": "114K+",
+        "Link": "https://www.youtube.com/watch?v=eezTCf0EXXs&list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "91K+",
+        "Link": "https://www.youtube.com/watch?v=J4UKL355sUo&list=PL9ooVrP1hQOGoYVit61V7Y1uPzfnBvN86"
+      },
+      {
+        "Youtuber_name": "Hitesh Choudhary",
+        "Subcribers": "645K+",
+        "Views": "140K+",
+        "Link": "https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD"
       }
     ],
 
     "Websites": [
       {
         "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/javascript/index.htm"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/javascript-tutorial"
+      },
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/js/"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/javascript-tutorial/"
+      },
+      {
+        "Website_name": "Developer.mozilla.org",
+        "Users": "40.42M+",
+        "Link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Head First JavaScript Programming A Brain-Friendly Guide",
+        "Author": "Eric T. Freeman, Elisabeth Robson",
+        "Link": "https://drive.google.com/file/d/1eWAPMWxv82Y0mD7qotSNi6kDtpeDdARL/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "JavaScript The Definitive Guide Master the Worlds Most-Used Programming Language",
+        "Author": "David Flanagan",
+        "Link": "https://drive.google.com/file/d/1HsjqU3u7DLCYodBkjKVka3oaJ26VOX35/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learn Javascript Visually",
+        "Author": "Ivelin Demirov",
+        "Link": "https://drive.google.com/file/d/1njTxUe5k3ZS-uPu24ysOys-Nw0Ite-ED/view?usp=sharing"
       }
+    
+
     ]
   },
   {
