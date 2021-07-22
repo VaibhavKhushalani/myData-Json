@@ -217,48 +217,97 @@
   },
   {
     "id": 2,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "C#",
+    "Avg": "Avg.Time: 8 weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "If you want to get into computer programming, C# is one of the easiest programming languages among them all. Here are the reasons why you should learn C#.A modern language is one that supports the latest features for developing scalable, reliable, and robust industry standard software applications. C# is a modern language. C# language supports everything modern programmers need in a language.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Naresh i Technologies",
+        "Subcribers": "784K+",
+        "Views": "796K+",
+        "Link": "https://www.youtube.com/watch?v=0u9k-kOR3KE&list=PLVlQHNRLflP-jc5Fbhfdhzv52AWYq836j"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Learning Never Ends",
+        "Subcribers": "21.4K+",
+        "Views": "66K+",
+        "Link": "https://www.youtube.com/watch?v=QxJaNIo1DUo&list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR"
+      },
+      {
+        "Youtuber_name": "Tutorials Point (India) Ltd.",
+        "Subcribers": "2.33M+",
+        "Views": "94K+",
+        "Link": "https://www.youtube.com/watch?v=MhdxhUgSpFw&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM"
+      },
+      {
+        "Youtuber_name": "Programming with Mosh",
+        "Subcribers": "1.86M+",
+        "Views": "3,106K+",
+        "Link": "https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef"
+      },
+      {
+        "Youtuber_name": "kudvenkat",
+        "Subcribers": "666K+",
+        "Views": "3,044K+",
+        "Link": "https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105"
       }
     ],
 
     "Websites": [
       {
         "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/csharp/index.htm"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/c-sharp-tutorial"
+      },
+      {
+        "Website_name": "w3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/cs/index.php"
+      },
+      {
+        "Website_name": "Tutorialsteacher",
+        "Users": "2.01M+",
+        "Link": "https://www.tutorialsteacher.com/csharp/csharp-tutorials"
+      },
+      {
+        "Website_name": "c-sharpcorner",
+        "Users": "6.36M+",
+        "Link": "https://www.c-sharpcorner.com/article/C-Sharp-tutorial/"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Agile Principles, Patterns, and Practices in C",
+        "Author": "Robert C. Martin",
+        "Link": "https://drive.google.com/file/d/10jf1FQbNhD2ur54xJR1_a8AGeBnXTYe8/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "C 7.0 Pocket Reference Instant Help for C 7.0 Programmers",
+        "Author": "Joseph Albahari, Ben Albahari",
+        "Link": "https://drive.google.com/file/d/1LGPcQwEU0A2Yc8jtMwp0hsd7XoB7-UZY/view?usp=sharing"
+      },
+
+      {
+        "Book_name": "C 8.0 and .NET Core 3.0 – Modern Cross-Platform Development",
+        "Author": "Mark J. Price",
+        "Link": "https://drive.google.com/file/d/1wJfEBCkNzO8G0ey6OoczW7SsoyCEweiw/view?usp=sharing"
+      },
+      {
+        "Book_name": "C in Depth",
+        "Author": "Jon Skeet",
+        "Link": "https://drive.google.com/file/d/1DzSx-7k6_kAe8fQEK-16O3cXHB7XECbB/view?usp=sharing"
+      },
+      {
+        "Book_name": "The C Player’s Guide",
+        "Author": "RB Whitaker",
+        "Link": "https://drive.google.com/file/d/1BXf8gvsMbFJtFXcySe7wmZu01SNNP_e1/view?usp=sharing"
       }
     ]
   },
