@@ -933,48 +933,91 @@
   },
   {
     "id": 10,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "PHP",
+    "Avg": "Avg.Time: 10 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more. There are three main areas where PHP scripts are used. Server-side scripting.",
     "Youtuber": [
       {
         "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Subcribers": "1.6M+",
+        "Views": "272K+",
+        "Link": "https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Yahoo Baba",
+        "Subcribers": "117K+",
+        "Views": "412K+",
+        "Link": "https://www.youtube.com/watch?v=a_qREkJ78f4&list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs"
+      },
+      {
+        "Youtuber_name": "ProgrammingKnowledge",
+        "Subcribers": "1.41M+",
+        "Views": "804K+",
+        "Link": "https://www.youtube.com/watch?v=yMclPkD4sQg&list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg"
+      },
+      {
+        "Youtuber_name": "PHP-MySQL by Saurabh Shukla Sir",
+        "Subcribers": "74.6K+",
+        "Views": "416K+",
+        "Link": " https://www.youtube.com/watch?v=v1otHJGlV5g&list=PLEiPMJpUdbj6a2p9Pt6tBdJhcqmWgX7Oa"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "478K+",
+        "Link": " https://www.youtube.com/watch?v=GIRcpjg-3Eg&list=PL9ooVrP1hQOFB2yjxFbK-Za8HwM5v1NC5"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/php/DEFAULT.asp"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "PHP",
+        "Users": "8.81M+",
+        "Link": "https://www.php.net/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/php/index.htm"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-php"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/php-tutorial"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Head First PHP  MySQL",
+        "Author": "Lynn Beighley, Michael Morrison",
+        "Link": "https://drive.google.com/file/d/1Q5i0UZZugeCFlqdZjKsymhVCFWl9N5Uz/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Learning PHP, MySQL  JavaScript - With jQuery, CSS  HTML5",
+        "Author": "Robin Nixon",
+        "Link": "https://drive.google.com/file/d/1VZYEE4oaclunIlkjPz5tyM5pY0cfu1f3/view?usp=sharing"
+      },
+      {
+        "Book_name": "PHP 7 Solutions Dynamic Web Design Made Easy",
+        "Author": "David Powers",
+        "Link": "https://drive.google.com/file/d/1lAYgnyU2pOdOk55Xun-MDcNEhZW-ZPSq/view?usp=sharing"
+      },
+      {
+        "Book_name": "PHP Learn PHP in One Day and Learn It Well",
+        "Author": "LCF Publishing, Jamie Chan",
+        "Link": "https://drive.google.com/file/d/1RVUivCTb6U514pFV9KqkCrrlQIjPQdjm/view?usp=sharing"
       }
     ]
   },
