@@ -1192,236 +1192,411 @@
   },
   {
     "id": 13,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Angular js",
+    "Avg": "Avg.Time: 6 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Codevolution",
+        "Subcribers": "291K+",
+        "Views": "10,159K+",
+        "Link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "209K+",
+        "Link": "https://www.youtube.com/watch?v=0LhBvp8qpro"
+      },
+      {
+        "Youtuber_name": "Codedamn",
+        "Subcribers": "157K+",
+        "Views": "1,865K+",
+        "Link": "https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt"
+      },
+      {
+        "Youtuber_name": "Programming with Mosh",
+        "Subcribers": "1.86M+",
+        "Views": "2,553K+",
+        "Link": "https://www.youtube.com/watch?v=k5E2AVpwsko"
+      },
+      {
+        "Youtuber_name": "The Net Ninja",
+        "Subcribers": "746K+",
+        "Views": "541K+",
+        "Link": " https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "AngularJs",
+        "Users": "345.32K+",
+        "Link": "https://docs.angularjs.org/tutorial"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/angular/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/angularjs/index.htm"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-angularjs"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/angularjs-tutorial"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "AngularJS Novice to Ninja",
+        "Author": "Sandeep Panda",
+        "Link": "https://drive.google.com/file/d/1fNv1KRK30o_7t_zrtBnHdznZUg_uzyA5/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Learning Single-page Web Application Development Build powerful and scalable single-page web applications using a full stack JavaScript",
+        "Author": "Fernando Monteiro",
+        "Link": "https://drive.google.com/file/d/19AZ7nlZ7wQRhjk9Lnm7PUw88v0askn06/view?usp=sharing"
       }
     ]
   },
   {
     "id": 14,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "GO (Golang)",
+    "Avg": "Avg.Time: 3 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "Golang is very useful for writing light-weight microservices. We currently use it for generating APIs that interact with our front-end applications. If you want to build a small functional microservice quickly, then Golang is a great tool to use. It's an easy language for developers to learn quickly.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "freeCodeCamp.org",
+        "Subcribers": "3.85M+",
+        "Views": "1,116K+",
+        "Link": " https://www.youtube.com/watch?v=YS4e4q9oBaU"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "11K+",
+        "Link": " https://www.youtube.com/watch?v=3iuoQkQOx2w&list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij"
+      },
+      {
+        "Youtuber_name": "Traversy Media",
+        "Subcribers": "1.57M+",
+        "Views": "305K+",
+        "Link": " https://www.youtube.com/watch?v=SqrbIlUwR0U"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "95K+",
+        "Link": " https://www.youtube.com/watch?v=Q0sKAMal4WQ"
+      },
+      {
+        "Youtuber_name": "Telusko",
+        "Subcribers": "1.42M+",
+        "Views": "64K+",
+        "Link": " https://www.youtube.com/watch?v=ty49_v1tV44"
       }
     ],
 
     "Websites": [
       {
+        "Website_name": "Golang",
+        "Users": "2.16M+",
+        "Link": "https://golang.org/"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-go"
+      },
+      {
+        "Website_name": "Gobyexample",
+        "Users": "358.44K+",
+        "Link": "https://gobyexample.com/"
+      },
+      {
         "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/go/index.htm"
       },
       {
         "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Hands-On System Programming with Go Build Modern and Concurrent Applications for Unix and Linux Systems Using Golang",
+        "Author": "Alex Guerrieri",
+        "Link": "https://drive.google.com/file/d/1M2MVLfK_xewpmyi-lrmsfcyCUcNB7JgO/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Mastering Go Create Golang production applications using network libraries, concurrency, machine learning, and advanced data structures",
+        "Author": "Mihalis Tsoukalos",
+        "Link": "https://drive.google.com/file/d/1ZvG5l1aOLxdbuEmXP6biiJREwNnFK8vo/view?usp=sharing"
       }
     ]
   },
   {
     "id": 15,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Data Structure",
+    "Avg": "Avg.Time: 8 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "Data structures are used in computing to make it easy to locate and retrieve information. ... Non-primitive data structures provide ways of storing multiple values in a single variable. These include arrays, lists, stacks, trees, and so forth. Data structures can also be used to group and organize other data structures.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "FreeCodeCamp.org",
+        "Subcribers": "3.85M+",
+        "Views": "3,090K+",
+        "Link": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "907K+",
+        "Link": "https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi"
+      },
+      {
+        "Youtuber_name": "Neso Academy",
+        "Subcribers": "1.2M+",
+        "Views": "267K+",
+        "Link": "https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"
+      },
+      {
+        "Youtuber_name": "WsCube Tech",
+        "Subcribers": "386K+",
+        "Views": "77K+",
+        "Link": "https://www.youtube.com/watch?v=hCrO_cR7kno"
+      },
+      {
+        "Youtuber_name": "NOC16 July-Sep CS11",
+        "Subcribers": "10.3K+",
+        "Views": "630K+",
+        "Link": " https://www.youtube.com/watch?v=9MmC_uGjBsM&list=PLyqSpQzTE6M_Fu6l8irVwXkUyC9Gwqr6_"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "Programiz",
+        "Users": "9.67M+",
+        "Link": "https://www.programiz.com/dsa"
       },
       {
         "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/data-structures/"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/data-structure-tutorial"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/data_structures_algorithms/index.htm"
+      },
+      {
+        "Website_name": "Jovian",
+        "Users": "471.63K+",
+        "Link": "https://jovian.ai/learn/data-structures-and-algorithms-in-python"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Data Structures and Algorithms Made Easy Data Structures and Algorithmic Puzzles",
+        "Author": "Narasimha Karumanchi",
+        "Link": "https://drive.google.com/file/d/1mW1ClIcL6bF3P6961yICFh__l9V_wS4V/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
-      }
+        "Book_name": "Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People",
+        "Author": "Aditya Bhargava",
+        "Link": "https://drive.google.com/file/d/1AEv7JLf0JqyggugOeADE-OcJLKzCGfJw/view?usp=sharing"
+      },
+      {
+        "Book_name": "Introduction to algorithms",
+        "Author": "Thomas H. Cormen, Charles E. Leiserson",
+        "Link": "https://drive.google.com/file/d/1e41fW3YntNfL1Pti9kWnoNxRKFcxKmuA/view?usp=sharing"
+      } 
     ]
   },
   {
     "id": 16,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "JQuery",
+    "Avg": "Avg.Time: 6 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "jQuery is a lightweight, 'write less, do more', JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.",
     "Youtuber": [
       {
         "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Subcribers": "1.6M+",
+        "Views": "114K+",
+        "Link": "https://www.youtube.com/watch?v=YFlx1C8XwR0"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "167K+",
+        "Link": "https://www.youtube.com/watch?v=HgvIox6ehkM"
+      },
+      {
+        "Youtuber_name": "Yahoo Baba",
+        "Subcribers": "117K+",
+        "Views": "154K+",
+        "Link": "https://www.youtube.com/watch?v=QvaFeU0LWnc&list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW"
+      },
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "77K+",
+        "Link": " https://www.youtube.com/watch?v=NqFtCDw7cWo&list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI"
+      },
+      {
+        "Youtuber_name": "Codin Gyaan",
+        "Subcribers": "5.38K+",
+        "Views": "6K+",
+        "Link": " https://www.youtube.com/watch?v=7M3L4JSSPSA"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "jquery",
+        "Users": "325.92K+",
+        "Link": "https://learn.jquery.com/"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/jquery/default.asp"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-jquery"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/jquery-tutorial"
+      },
+      {
+        "Website_name": "Css-tricks",
+        "Users": "8M+",
+        "Link": "https://css-tricks.com/lodge/learn-jquery/"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "A Smarter Way to Learn jQuery Learn it faster. Remember it longer.",
+        "Author": "Mark Myers",
+        "Link": "https://drive.google.com/file/d/1ykchw9dRhV-5mlztrXpFg57SzL4N2t-C/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Head First jQuery",
+        "Author": "Ryan Benedetti, Ronan Cranley",
+        "Link": "https://drive.google.com/file/d/1sPw0Snjoxf_xc6Saw210btNvk5YVwUlO/view?usp=sharing"
       }
     ]
   },
   {
     "id": 17,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Ruby",
+    "Avg": "Avg.Time: 5 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "Ruby is most used for building web applications. However, it is a general-purpose language similar to Python, so it has many other applications like data analysis, prototyping, and proof of concepts. Probably the most obvious implementation of Ruby is Rails web, the development framework built with Ruby.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "FreeCodeCamp.org",
+        "Subcribers": "3.85M+",
+        "Views": "594K+",
+        "Link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Mike Dane",
+        "Subcribers": "193K+",
+        "Views": "20K+",
+        "Link": "https://www.youtube.com/watch?v=CIe1DxrSrhs&list=PLLAZ4kZ9dFpO90iMas70Tt4_wYjhLGkya"
+      },
+      {
+        "Youtuber_name": "Traversy Media",
+        "Subcribers": "1.57M+",
+        "Views": "82K+",
+        "Link": "https://www.youtube.com/watch?v=B3Fbujmgo60"
+      },
+      {
+        "Youtuber_name": "Jake Day Williams",
+        "Subcribers": "83.4K+",
+        "Views": "397K+",
+        "Link": " https://www.youtube.com/watch?v=8I539U5lXWY&list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp"
+      },
+      {
+        "Youtuber_name": "Smartherd",
+        "Subcribers": "105K+",
+        "Views": "89K+",
+        "Link": " https://www.youtube.com/watch?v=SHzeVBrW_rA&list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-ruby"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Ruby-lang.org",
+        "Users": "337.52K+",
+        "Link": "https://www.ruby-lang.org/en/documentation/quickstart/"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/ruby-tutorialhttps://www.javatpoint.com/ruby-tutorial"
+      },
+      {
+        "Website_name": "Careerkarma",
+        "Users": "2.68M+",
+        "Link": "https://careerkarma.com/blog/how-to-learn-ruby/"
+      },
+      {
+        "Website_name": "Freecodecamp",
+        "Users": "15.84M+",
+        "Link": "https://www.freecodecamp.org/news/learning-ruby-from-zero-to-hero-90ad4eecc82d/"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Beginning Ruby From Novice to Professional",
+        "Author": "Peter Cooper",
+        "Link": "https://drive.google.com/file/d/1dXBf7JpOVAzXMOmGq7xTYhJk0rykYwLc/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Head First Ruby",
+        "Author": "Jay McGavren",
+        "Link": "https://drive.google.com/file/d/1C5oqYjiU2s63492Z2PDG33smhaDIVOct/view?usp=sharing"
+      },
+      {
+        "Book_name": "Ruby Programming for Beginners An Introduction to Learning Ruby Programming with Tutorials and Hands-On Examples",
+        "Author": "Metzler, Nathan",
+        "Link": "https://drive.google.com/file/d/1rdDoMwlevvZYzcXftAAS3blhg7kq8EyU/view?usp=sharing"
       }
     ]
   },
