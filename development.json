@@ -581,8 +581,6 @@
         "Author": "Ivelin Demirov",
         "Link": "https://drive.google.com/file/d/1njTxUe5k3ZS-uPu24ysOys-Nw0Ite-ED/view?usp=sharing"
       }
-    
-
     ]
   },
   {
@@ -1023,49 +1021,88 @@
   },
   {
     "id": 11,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Node js",
+    "Avg": "Avg.Time: 10 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Programming with Mosh",
+        "Subcribers": "1.86M+",
+        "Views": "3,410K+",
+        "Link": " https://www.youtube.com/watch?v=TlB_eWDSMt4"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "1,148K+",
+        "Link": " https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8"
+      },
+      {
+        "Youtuber_name": "Telusko",
+        "Subcribers": "1.42M+",
+        "Views": "280K+",
+        "Link": " https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG"
+      },
+      {
+        "Youtuber_name": "FreeCodeCamp.org",
+        "Subcribers": "3.85M+",
+        "Views": "329K+",
+        "Link": " https://www.youtube.com/watch?v=Oe421EPjeBE"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "396K+",
+        "Link": " https://www.youtube.com/watch?v=JnvKXcSI7yk"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/nodejs/"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/nodejs/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/nodejs-tutorial"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-node-js"
+      },
+      {
+        "Website_name": "Tutorialsteacher",
+        "Users": "2.01M+",
+        "Link": "https://www.tutorialsteacher.com/nodejs/nodejs-tutorials"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Get Programming with Node.js",
+        "Author": "Jonathan Wexler",
+        "Link": "https://drive.google.com/file/d/169IIqKpSOS1VrOG5n8L8-4o113cgxx2s/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales",
+        "Author": "Jim Wilson",
+        "Link": "https://drive.google.com/file/d/1gsEO7i9BhS4xQ8eUKclNVEOh7Omt1GXM/view?usp=sharing"
+      },
+      {
+        "Book_name": "Practical Node.js Building Real-World Scalable Web Apps",
+        "Author": "Azat Mardan",
+        "Link": "https://drive.google.com/file/d/1xUbWhEyjU-Ok-GWH5un5Wd_xHhtGDoTK/view?usp=sharing"
       }
+
     ]
   },
   {
