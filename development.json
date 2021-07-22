@@ -359,32 +359,57 @@
     "Websites": [
       {
         "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/python/index.htm"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/python-tutorial"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/"
+      },
+      {
+        "Website_name": "Programiz",
+        "Users": "9.67M+",
+        "Link": "https://www.programiz.com/python-programming"
+      },
+      {
+        "Website_name": "w3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/python/"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Python 3 for Absolute Beginners",
+        "Author": "Tim Hall and J-P Stacey",
+        "Link": "https://drive.google.com/file/d/1P0lJ-OfQsfPDZ1zLTOUCvwa1l3jOT0x1/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Python Crash Course A Hands-On, Project-Based Introduction to Programming",
+        "Author": "Eric Matthes",
+        "Link": "https://drive.google.com/file/d/1wjwaMCYXoT3mQBEA5_0VleUxMHaFGdDi/view?usp=sharing"
+      },
+      {
+        "Book_name": "Python Crash Course, 2nd Edition A Hands-On, Project-Based Introduction to Programming",
+        "Author": "Eric Matthes",
+        "Link": "https://drive.google.com/file/d/1xrxtMTZuVdpRBViNcflme9MJiYSHcV6W/view?usp=sharing"
+      },
+      {
+        "Book_name": "Python3",
+        "Author": "Tutorials Point",
+        "Link": "https://drive.google.com/file/d/184zcMEiHfz6uT0wZhCEIoAI29C6r0nW5/view?usp=sharing"
       }
     ]
   },
   {
     "id": 4,
-    "Course": "Java Language",
+    "Course": "Java",
     "Avg": "Avg.Time: 5 Months",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
