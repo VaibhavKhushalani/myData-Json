@@ -587,48 +587,91 @@
   },
   {
     "id": 6,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "HTML,CSS",
+    "Avg": "Avg.Time: 3 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets. CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Apna College",
+        "Subcribers": "611K+",
+        "Views": "1,070K+",
+        "Link": "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "CodeWithHarry",
+        "Subcribers": "1.6M+",
+        "Views": "1,695K+",
+        "Link": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+      },
+      {
+        "Youtuber_name": "Harshit vashisth",
+        "Subcribers": "163K+",
+        "Views": "117K+",
+        "Link": "https://www.youtube.com/watch?v=luAkR9VaLcw&list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB"
+      },
+      {
+        "Youtuber_name": "Tech Gun",
+        "Subcribers": "73.5K+",
+        "Views": "34K+",
+        "Link": "https://www.youtube.com/watch?v=uX9OsJQ7FJY&list=PLjpp5kBQLNTSdLVVjU_kea8J8lP24ZseT"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "172K+",
+        "Link": "https://www.youtube.com/watch?v=a2L8ra2TOMg&list=PL9ooVrP1hQOH2k1SANK5rvq_EAgUKTPoK"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/html/default.asp"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/css/"
+      },
+      {
+        "Website_name": "Learn.shayhowe",
+        "Users": "202.96K+",
+        "Link": "https://learn.shayhowe.com/html-css/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/html/index.htm"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/css/index.htm"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Build Your Own Website A Comic Guide to HTML, CSS and Wordpress",
+        "Author": "Nate Cooper",
+        "Link": "https://drive.google.com/file/d/1ebd3URWg-SpqrTCB2HpZCQFVQSJLKVeH/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Head First HTML and CSS, 2nd Edition",
+        "Author": "Elisabeth Robson, Eric Freeman",
+        "Link": "https://drive.google.com/file/d/1pNnbv9AD3HSWyJrKAKXghU5Vnguydg7p/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics",
+        "Author": "Jennifer Niederst Robbins",
+        "Link": "https://drive.google.com/file/d/1QMLRFZTwvKZ7dwyogIhIUktwIeH0ZhRU/view?usp=sharing"
+      },
+      {
+        "Book_name": "Sams Teach Yourself HTML, CSS  JavaScript Web Publishing in One Hour a Day",
+        "Author": "Laura Lemay, Rafe Colburn, Jennifer Kyrnin",
+        "Link": "https://drive.google.com/file/d/1EMBd0XtXVKVkbY5r1VGoS_oGpNCxiqn5/view?usp=sharing"
       }
     ]
   },
