@@ -677,48 +677,97 @@
   },
   {
     "id": 7,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Responsive Web Designing",
+    "Avg": "Avg.Time: 6 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size on which it is viewed. It keeps images from being larger than the screen width, and prevents visitors on mobile devices from needing to do extra work to read your content.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Online Tutorials",
+        "Subcribers": "512K+",
+        "Views": "127K+",
+        "Link": " https://www.youtube.com/watch?v=X8NFkUQNeek&list=PL5e68lK9hEzci2jh7qgXDICUARtZ16Ec4"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "The Net Ninja",
+        "Subcribers": "746K+",
+        "Views": "143K+",
+        "Link": " https://www.youtube.com/watch?v=3tLb3i7GB38&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw"
+      },
+      {
+        "Youtuber_name": "Mr. Web Designer",
+        "Subcribers": "11.6K+",
+        "Views": "10K+",
+        "Link": " https://www.youtube.com/watch?v=9DJrsu-2Zvs&list=PLSJxovi1IyDH-pPIe0OF0z_mW-WVdhmhx"
+      },
+      {
+        "Youtuber_name": "FreeCodeCamp.org",
+        "Subcribers": "3.85M+",
+        "Views": "569K+",
+        "Link": "https://www.youtube.com/watch?v=srvUrASNj0s"
+      },
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "84K+",
+        "Link": " https://www.youtube.com/watch?v=FZ_ZOw1fVn0"
+      },
+      {
+        "Youtuber_name": "Dev Ed",
+        "Subcribers": "667K+",
+        "Views": "681K+",
+        "Link": " https://www.youtube.com/watch?v=ZeDP-rzOnAA"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/css/css_rwd_intro.asp"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Developer.mozilla.org",
+        "Users": "40.42M+",
+        "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+      },
+      {
+        "Website_name": "Tutorialspoint",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/css/css_responsive.htm"
+      },
+      {
+        "Website_name": "Learn.shayhowe",
+        "Users": "202.96K+",
+        "Link": "https://learn.shayhowe.com/advanced-html-css/responsive-web-design/"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-responsive-design"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Jump Start Responsive Web Design Modern Responsive Solutions",
+        "Author": "Chris Ward",
+        "Link": "https://drive.google.com/file/d/1d2w8NCsgd1ay4vKQiGWtsGRKYrbH4hL7/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Responsive Web Design",
+        "Author": "Ethan Marcotte",
+        "Link": "https://drive.google.com/file/d/1vrQrWtfUjmPbjOqzHP9Ak0VOHFnf18TM/view?usp=sharing"
+      },
+      {
+        "Book_name": "Responsive Web Design with HTML5 and CSS3",
+        "Author": "Ben Frain",
+        "Link": "https://drive.google.com/file/d/1iRIF6njlGtLwCfKYCXKXyFB8Rt9oIA57/view?usp=sharing"
+      },
+      {
+        "Book_name": "Web Development with Angular and Bootstrap Embrace responsive web design and build adaptive Angular web applications",
+        "Author": "Sridhar Rao Chivukula Aki Iskandar",
+        "Link": "https://drive.google.com/file/d/1FTJad4O0yqLIphzOCpDt3Y-xJTTcKlAQ/view?usp=sharing"
       }
     ]
   },
