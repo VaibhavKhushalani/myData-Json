@@ -773,95 +773,161 @@
   },
   {
     "id": 8,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Data Science",
+    "Avg": "Avg.Time: 8 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "Data science provides the inside knowledge, which is derived from the big data after processes of extraction and the information. ... Data is the key component for every business, as businesses need it to analyze their current scenario based on past facts and performance and make decisions for future challenges.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Codebasics",
+        "Subcribers": "359K+",
+        "Views": "126K+",
+        "Link": " https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "The Engineering World",
+        "Subcribers": "21.7K+",
+        "Views": "84K+",
+        "Link": "https://www.youtube.com/watch?v=Uct_EbThV1E&list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "274K+",
+        "Link": " https://www.youtube.com/watch?v=KdgQvgE3ji4&list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX"
+      },
+      {
+        "Youtuber_name": "Indian AI Production",
+        "Subcribers": "22.8K+",
+        "Views": "90K+",
+        "Link": " https://www.youtube.com/watch?v=tMZn54M8tGU&list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8"
+      },
+      {
+        "Youtuber_name": "IIT Roorkee July 2018",
+        "Subcribers": "77.3K+",
+        "Views": "140K+",
+        "Link": " https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv"
       }
     ],
 
     "Websites": [
       {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/datascience/"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/data-science"
+      },
+      {
         "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/python_data_science/index.htm"
+      },
+      {
+        "Website_name": "Datacamp",
+        "Users": "5.50M+",
+        "Link": "https://www.datacamp.com/community/tutorials"
       },
       {
         "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/data-science-fundamentals/"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Data Science with R A Step By Step Guide With Visual Illustrations and Examples",
+        "Author": "Andrew Oleksy",
+        "Link": "https://drive.google.com/file/d/1PL68St11oBQ9DMDjw4Vg4xyrARw3A8-u/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Introducing Data Science Big Data, Machine Learning, and more, using Python tools",
+        "Author": "Davy Cielen, Arno Meysman, Mohamed Ali",
+        "Link": "https://drive.google.com/file/d/1r-zS1x7gK2JvdZ--Uh7gkKqTXQgqwpps/view?usp=sharing"
+      },
+      {
+        "Book_name": "The Art of Data Science A Guide for Anyone Who Works with Data",
+        "Author": "Roger D. Peng, Elizabeth Matsui",
+        "Link": "https://drive.google.com/file/d/1qr1L4KBmk3-LPlodTOu-0GcP3phvpyyD/view?usp=sharing"
       }
     ]
   },
   {
     "id": 9,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "SQL",
+    "Avg": "Avg.Time: 3 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "QAFox",
+        "Subcribers": "8K+",
+        "Views": "12K+",
+        "Link": "https://www.youtube.com/watch?v=pVKT4N-Cgb8&list=PLsjUcU8CQXGFFAhJI6qTA8owv3z9jBbpd"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "331K+",
+        "Link": " https://www.youtube.com/watch?v=WmGgxTpGs_8&list=PL9ooVrP1hQOGECN1oA2iXcWFBTRYUxzQG"
+      },
+      {
+        "Youtuber_name": "Intellipaat",
+        "Subcribers": "1.04M+",
+        "Views": "969K+",
+        "Link": " https://www.youtube.com/watch?v=JTDK6r1GuUU&list=PLVHgQku8Z936E51WaMbEHML6LutrGCSYr"
+      },
+      {
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "48K+",
+        "Link": "https://www.youtube.com/watch?v=e1LPfehYSgg&list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse"
+      },
+      {
+        "Youtuber_name": "Fundamentals of database systems",
+        "Subcribers": "5.15K+",
+        "Views": "24K+",
+        "Link": "https://www.youtube.com/watch?v=-gVcV-OFOyI&list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/sql/default.Asp"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Tutorialspoint",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/sql/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/sql-tutorial"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/sql-tutorial/"
+      },
+      {
+        "Website_name": "Sqltutorial",
+        "Users": "373.84K",
+        "Link": "https://www.sqltutorial.org/"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
-      },
-      {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Advanced PostgreSQL SQL Injection and Filter Bypass Techniques",
+        "Author": "Leon Juranić",
+        "Link": "https://drive.google.com/file/d/12Wxxv3R0ro8BF5ITDFvrtj_aS1Xvhpub/view?usp=sharing"
       }
     ]
   },
