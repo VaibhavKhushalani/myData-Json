@@ -699,7 +699,7 @@
         "Link": " https://www.youtube.com/watch?v=9DJrsu-2Zvs&list=PLSJxovi1IyDH-pPIe0OF0z_mW-WVdhmhx"
       },
       {
-        "Youtuber_name": "FreeCodeCamp.org",
+        "Youtuber_name": "FreeCodeCamp",
         "Subcribers": "3.85M+",
         "Views": "569K+",
         "Link": "https://www.youtube.com/watch?v=srvUrASNj0s"
@@ -1045,7 +1045,7 @@
         "Link": " https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG"
       },
       {
-        "Youtuber_name": "FreeCodeCamp.org",
+        "Youtuber_name": "FreeCodeCamp",
         "Subcribers": "3.85M+",
         "Views": "329K+",
         "Link": " https://www.youtube.com/watch?v=Oe421EPjeBE"
@@ -1131,7 +1131,7 @@
         "Link": " https://www.youtube.com/watch?v=Ke90Tje7VS0"
       },
       {
-        "Youtuber_name": "FreeCodeCamp.org",
+        "Youtuber_name": "FreeCodeCamp",
         "Subcribers": "3.85M+",
         "Views": "954K+",
         "Link": " https://www.youtube.com/watch?v=4UZrsTqkcW4"
@@ -1278,7 +1278,7 @@
     "Details": "Golang is very useful for writing light-weight microservices. We currently use it for generating APIs that interact with our front-end applications. If you want to build a small functional microservice quickly, then Golang is a great tool to use. It's an easy language for developers to learn quickly.",
     "Youtuber": [
       {
-        "Youtuber_name": "freeCodeCamp.org",
+        "Youtuber_name": "freeCodeCamp",
         "Subcribers": "3.85M+",
         "Views": "1,116K+",
         "Link": " https://www.youtube.com/watch?v=YS4e4q9oBaU"
@@ -1358,7 +1358,7 @@
     "Details": "Data structures are used in computing to make it easy to locate and retrieve information. ... Non-primitive data structures provide ways of storing multiple values in a single variable. These include arrays, lists, stacks, trees, and so forth. Data structures can also be used to group and organize other data structures.",
     "Youtuber": [
       {
-        "Youtuber_name": "FreeCodeCamp.org",
+        "Youtuber_name": "FreeCodeCamp",
         "Subcribers": "3.85M+",
         "Views": "3,090K+",
         "Link": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
@@ -1523,7 +1523,7 @@
     "Details": "Ruby is most used for building web applications. However, it is a general-purpose language similar to Python, so it has many other applications like data analysis, prototyping, and proof of concepts. Probably the most obvious implementation of Ruby is Rails web, the development framework built with Ruby.",
     "Youtuber": [
       {
-        "Youtuber_name": "FreeCodeCamp.org",
+        "Youtuber_name": "FreeCodeCamp",
         "Subcribers": "3.85M+",
         "Views": "594K+",
         "Link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
@@ -1602,147 +1602,176 @@
   },
   {
     "id": 18,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Swift",
+    "Avg": "Avg.Time: 4 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. The goal of the Swift project is to create the best available language for uses ranging from systems programming, to mobile and desktop apps, scaling up to cloud services. Most importantly, Swift is designed to make writing and maintaining correct programs easier for the developer.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Code With Chris",
+        "Subcribers": "449K+",
+        "Views": "4,418K+",
+        "Link": "https://www.youtube.com/watch?v=Ulp1Kimblg0"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "freeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "388K+",
+        "Link": "https://www.youtube.com/watch?v=comQ1-x2a1Q"
+      },
+      {
+        "Youtuber_name": "Devslopes",
+        "Subcribers": "126K+",
+        "Views": "63K+",
+        "Link": "https://www.youtube.com/watch?v=mhE-Mp07RTo"
+      },
+      {
+        "Youtuber_name": "Code With Chris",
+        "Subcribers": "449K+",
+        "Views": "177K+",
+        "Link": " https://www.youtube.com/watch?v=FcsY1YPBwzQ"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "22K+",
+        "Link": " https://www.youtube.com/watch?v=ot1AKV9kfAo"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "Developer.apple",
+        "Users": "11.35M+",
+        "Link": "https://developer.apple.com/swift/"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-swift"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/swift/index.htm"
+      },
+      {
+        "Website_name": "Docs.swift",
+        "Users": "317.73K+",
+        "Link": "https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html"
+      },
+      {
+        "Website_name": "Udacity",
+        "Users": "5.66M+",
+        "Link": "https://www.udacity.com/course/swift-for-beginners--ud1022"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Swift2 for Absolute Beginners",
+        "Author": "Gary Bennett, Brad Lees",
+        "Link": "https://drive.google.com/file/d/1HYAesjNYWJM1NmyfM8smyeTO6T7LrutO/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Swift 5 for Absolute Beginners",
+        "Author": "Stefan Kaczmarek, Brad Lees, Gary Bennett",
+        "Link": "https://drive.google.com/file/d/1gvZWz1S9HGjVqdDmHIW2I1h-KGSFpLkA/view?usp=sharing"
+      },
+      {
+        "Book_name": "Swift for Beginners",
+        "Author": "Boisy G. Pitre",
+        "Link": "https://drive.google.com/file/d/1fWeJURyNp4QbdxOFNNq4OJvZPWK0quef/view?usp=sharing"
       }
     ]
   },
   {
     "id": 19,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
+    "Course": "Flutter and Dart",
+    "Avg": "Avg.Time: 3 Weeks",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
+    "Details": "There are things that are of great value to the business — platform stability, its performance, a guarantee of successful support, and improvement of technologies and products. Any problems and shortcomings in any of these aspects may lead to risks, including direct and indirect financial losses.",
     "Youtuber": [
       {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+        "Youtuber_name": "Mtechviral",
+        "Subcribers": "92.8K+",
+        "Views": "236K+",
+        "Link": " https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV"
       },
       {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
+        "Youtuber_name": "Smartherd",
+        "Subcribers": "105K+",
+        "Views": "88K+",
+        "Link": " https://www.youtube.com/watch?v=ycHX8QtV08c&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB&index=5"
+      },
+      {
+        "Youtuber_name": "Free Online Courses Official",
+        "Subcribers": "1.01K+",
+        "Views": "15K+",
+        "Link": " https://www.youtube.com/watch?v=WPpoRkoeQVY&list=PLziVQlsc4EpCin9YcyI43QV0Jk8EQVraA"
+      },
+      {
+        "Youtuber_name": "Hitesh Choudhary",
+        "Subcribers": "645K+",
+        "Views": "43K+",
+        "Link": " https://www.youtube.com/watch?v=BDwCQc2uEfw&list=PLRAV69dS1uWT-ooTYHCqgxMTGA233JMrP"
+      },
+      {
+        "Youtuber_name": "Tensor Programming",
+        "Subcribers": "41.2K+",
+        "Views": "68K+",
+        "Link": " https://www.youtube.com/watch?v=b2fgMCeSNpY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd"
       }
     ],
 
     "Websites": [
       {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
+        "Website_name": "Medium",
+        "Users": "155.76M+",
+        "Link": "https://medium.com/flutter-community/how-to-learn-flutter-886c0bad8a46"
       },
       {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
+        "Website_name": "Freecodecamp",
+        "Users": "15.84M+",
+        "Link": "https://www.freecodecamp.org/news/how-to-learn-flutter-in-2020/"
+      },
+      {
+        "Website_name": "Pro.academind",
+        "Users": "146.64K+",
+        "Link": "https://pro.academind.com/p/learn-flutter-dart-to-build-ios-android-apps-2020"
+      },
+      {
+        "Website_name": "Flutter",
+        "Users": "5M+",
+        "Link": "https://flutter.dev/docs/reference/tutorials"
+      },
+      {
+        "Website_name": "Solutelabs",
+        "Users": "88.35K+",
+        "Link": "https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide"
       }
     ],
 
     "Books": [
       {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
+        "Book_name": "Beginning Flutter  a hands on guide to app development",
+        "Author": "Napoli, Marco L",
+        "Link": "https://drive.google.com/file/d/1IYag0HShp8ZjzOQG_ml3sIrYs2RfMyMh/view?usp=sharing"
       },
       {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
+        "Book_name": "Flutter Complete Reference Create Beautiful, Fast and Native Apps for Any Device",
+        "Author": "Alberto Miola",
+        "Link": "https://drive.google.com/file/d/1JL2dU35_K_d2xIw7UD3y2NNynByL7InV/view?usp=sharing"
+      },
+      {
+        "Book_name": "Flutter for Beginners",
+        "Author": "Alessandro Biessek",
+        "Link": "https://drive.google.com/file/d/1cVNczuivYAgKnSA6ILSodJXCjyOZRWus/view?usp=sharing"
       }
     ]
   },
   {
     "id": 20,
-    "Course": "Java Language",
-    "Avg": "Avg.Time: 5 Months",
-    "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
-    "Details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.",
-    "Youtuber": [
-      {
-        "Youtuber_name": "Code with Harry",
-        "Subcribers": "18 M",
-        "Views": "10 M",
-        "Link": "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
-      },
-      {
-        "Youtuber_name": "Apna College",
-        "Subcribers": "10 M",
-        "Views": "1 M",
-        "Link": "https://youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s"
-      }
-    ],
-
-    "Websites": [
-      {
-        "Website_name": "Tutorials Point",
-        "Users": "2 M",
-        "Link": "https://www.tutorialspoint.com/java/index.htm"
-      },
-      {
-        "Website_name": "Geeks for Geeks",
-        "Users": "100M",
-        "Link": "https://www.geeksforgeeks.org/java/"
-      }
-    ],
-
-    "Books": [
-      {
-        "Book_name": "Java is for content",
-        "Author": "Fuzia",
-        "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
-      },
-      {
-        "Book_name": "Java",
-        "Author": "Robert T.Kiyosaki",
-        "Link": "https://drive.google.com/file/d/12aq0RIM1B2PxBq9MsbaoXyGRGfYGgXa-/view?usp=sharing"
-      }
-    ]
-  },
-  {
-    "id": 21,
     "Course": "Java Language",
     "Avg": "Avg.Time: 5 Months",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
