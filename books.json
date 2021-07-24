@@ -2,306 +2,357 @@
   {
     "id": 0,
     "Book": "The C++ Programming language",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1SYEioYahpAvh7vkqwrw-2ugF4z8Nvzjp/preview"
   },
   {
     "id": 1,
     "Book": "C++ How to Program",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1jRdpL-eDKP3CeSH6pRnLKiDsV2UrXOh5/preview"
   },
   {
     "id": 2,
     "Book": "C++ Crash Course",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1g2sQwWzwtMVKR3VKotGscTkHYVNNu0fH/preview"
   },
   {
     "id": 3,
     "Book": "Learn Java in One Day and Learn It Well",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1lmKXUBVr6QgxTi994MZHw4ovQAsYjf7J/preview"
   },
   {
     "id": 4,
     "Book": "HTML and CSS: Design and Build Websites",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1TG8TBq46PXVOVAaD2FUDknFIWPpPNbCj/preview"
   },
   {
     "id": 5,
     "Book": "JavaScript and JQuery: Interactive Front-End Web Development",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1sV5fceMXPpLXWaGW--2VQrGNLJXPjkKf/preview"
   },
   {
     "id": 6,
     "Book": "Web Programming with HTML5, CSS, and JavaScript",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1ANMJ3Vxld5o2csaW9dGksPYR7pl5ow3P/preview"
   },
   {
     "id": 7,
     "Book": "Learn Python in One Day and Learn It Well",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1c2Onx4yuwjFUk5uEIvdQ8kTj2yMKYAqB/preview"
   },
   {
     "id": 8,
     "Book": "How To Analyze People",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/11vQkQ_Vwqrbu6UrXuRGeK2Df74eCZCJn/preview"
   },
   {
     "id": 9,
     "Book": "How to Win Friends and Influence People in the Digital Age",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1lcQLH-dYyH9S6oVdmgWPdPWkmmk5JPWQ/preview"
   },
   {
     "id": 10,
     "Book": "Self Discipline Mindset",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1CnKyhoShMvJYMbGXOREBmZ9HFqoI7VB-/preview"
   },
   {
     "id": 11,
     "Book": "The Subtle Art of Not Giving a Fuck",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1hCq81HXtKjY-SDkY0opCBCQ_Gw9FxPD3/preview"
   },
   {
     "id": 12,
     "Book": "How to Learn Almost Anything in 48 Hours",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/13WMQd4JhbM1pUPG3QWWWe4sq7o3ElF-H/preview"
   },
   {
     "id": 13,
     "Book": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1BcaNBX9ReubgNPrhYaXKI6rpQIkrCTDZ/preview"
   },
   {
     "id": 14,
     "Book": "How to Talk to Anyone 92 Little Tricks for Big Success in Relationships by Leil Lowndes",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1HcPhec5qE4aoOlbrVyplEbeAZNiDAPtF/preview"
   },
   {
     "id": 15,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 16,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 17,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 18,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 19,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 20,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 21,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 22,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 23,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 24,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 25,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 26,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 27,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 28,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 29,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 30,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 31,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 32,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 33,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 34,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 35,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 36,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 37,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 38,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 39,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 40,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 41,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 42,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 43,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 44,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 45,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 46,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 47,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 48,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 49,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   },
   {
     "id": 50,
     "Book": "C++",
+    "author":"",
     "imglink": "https://drive.google.com/uc?export=download&id=1zLqEczclgt4cw_vRbrB_Q03mvNgtbqFN",
     "Link": "https://drive.google.com/file/d/1725YEqf8Wf9M_UbpYiUmj7ibRM35dLJl/view?usp=sharing"
   }
