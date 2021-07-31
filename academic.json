@@ -516,33 +516,33 @@
         "sub_name": "Rtu Solved Papers",
         "units": [
           {
-            "unit_id": "Advanced-Engineering-Mathematics",
-            "name": "Solved paper",
+            "unit_id": "Unit1",
+            "name": "Advanced-Engineering-Mathematics-2019",
             "link": "https://drive.google.com/file/d/1-vOHlxUVlUNjoNji5e5y2WAP-oNF7hbV/preview"
           },
           {
-            "unit_id": "DIGITAL-ELECTRONICS",
-            "name": "2019 Solved paper",
+            "unit_id": "Unit2",
+            "name": "DIGITAL-ELECTRONICS-2019",
             "link": "https://drive.google.com/file/d/1cNNwo99TLYPTHmivVETaIyumOIv1audZ/preview"
           },
           {
-            "unit_id": "DSA",
-            "name": "2019 Solved Paper",
+            "unit_id": "Unit3",
+            "name": "DSA-2019",
             "link": "https://drive.google.com/file/d/1f60OOvhYAVPMyasCAJmtg6Gv0txWhglt/preview"
           },
           {
-            "unit_id": "MEFA",
-            "name": "Exam solution",
+            "unit_id": "Unit4",
+            "name": "MEFA-Exam solution",
             "link": "https://drive.google.com/file/d/1ZRrSpTWUZbihnMtC2WMGUwBueRLacBQp/preview"
           },
           {
-            "unit_id": "OOP",
-            "name": "2019 Solved Paper",
+            "unit_id": "Unit5",
+            "name": "OOP-2019-Solved",
             "link": "https://drive.google.com/file/d/1pX-jgSUQkk1C7Ymunt9BgNnklEYCFayQ/preview"
           },
           {
-            "unit_id": "Software Engineering",
-            "name": "2019 Solved Paper",
+            "unit_id": "Unit6",
+            "name": "Software Engineering-2019",
             "link": "https://drive.google.com/file/d/1R0AzHaHb0LzKKERE26IlnwtYbNSZ5jw9/preview"
           }
         ]
