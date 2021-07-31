@@ -332,27 +332,32 @@
           {
             "unit_id": "Unit1",
             "name": "Random Variables",
-            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+            "link": "https://drive.google.com/file/d/1YtARWBb0Sm_Ghns5UiQrbq_IQ7mcgh4d/preview"
           },
           {
             "unit_id": "Unit2",
             "name": "Binomial Distribution",
-            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+            "link": "https://drive.google.com/file/d/1KG6OuC1San3pNi3ofkHj9xaRbs20HimP/preview"
           },
           {
             "unit_id": "Unit3",
             "name": "Historical Development",
-            "link": "linker.com"
+            "link": "https://drive.google.com/file/d/1ncg-RbMe4V7dygeSlQDz8_mRyKzJnh56/preview"
           },
           {
             "unit_id": "Unit4",
             "name": "Optimization using Differential Calculus",
-            "link": "linker.com"
+            "link": "https://drive.google.com/file/d/1bqeIcYpGMIZbOk1XeLorBk_91Je2ABo6/preview"
           },
           {
             "unit_id": "Unit5",
             "name": "Linear Programming",
-            "link": "linker.com"
+            "link": "https://drive.google.com/file/d/1sTN2vMhadK-4mYZHB5sCWzoETAVsz3dF/preview"
+          },
+          {
+            "unit_id": "Solved Examples",
+            "name": "Linear Programming",
+            "link": "https://drive.google.com/file/d/1mZx6YmgSx-EpA-Q_rwXjzZltG61gWJpz/preview"
           }
         ]
       },
@@ -448,7 +453,7 @@
           {
             "unit_id": "Unit5",
             "name": "Financial statement",
-            "link": "linker.com"
+            "link": "https://drive.google.com/file/d/12asV1oLnjJhaVY8_Hqw1h_-KHwZaTG0l/preview"
           }
         ]
       },
@@ -504,6 +509,41 @@
             "unit_id": "Unit5",
             "name": "Object Oriented Analysis",
             "link": "https://drive.google.com/file/d/1TH_DogIuDIou7nfIDl6HAw-QoXKKjvhR/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "Rtu Solved Papers",
+        "units": [
+          {
+            "unit_id": "Advanced-Engineering-Mathematics",
+            "name": "Solved paper",
+            "link": "https://drive.google.com/file/d/1-vOHlxUVlUNjoNji5e5y2WAP-oNF7hbV/preview"
+          },
+          {
+            "unit_id": "DIGITAL-ELECTRONICS",
+            "name": "2019 Solved paper",
+            "link": "https://drive.google.com/file/d/1cNNwo99TLYPTHmivVETaIyumOIv1audZ/preview"
+          },
+          {
+            "unit_id": "DSA",
+            "name": "2019 Solved Paper",
+            "link": "https://drive.google.com/file/d/1f60OOvhYAVPMyasCAJmtg6Gv0txWhglt/preview"
+          },
+          {
+            "unit_id": "MEFA",
+            "name": "Exam solution",
+            "link": "https://drive.google.com/file/d/1ZRrSpTWUZbihnMtC2WMGUwBueRLacBQp/preview"
+          },
+          {
+            "unit_id": "OOP",
+            "name": "2019 Solved Paper",
+            "link": "https://drive.google.com/file/d/1pX-jgSUQkk1C7Ymunt9BgNnklEYCFayQ/preview"
+          },
+          {
+            "unit_id": "Software Engineering",
+            "name": "2019 Solved Paper",
+            "link": "https://drive.google.com/file/d/1R0AzHaHb0LzKKERE26IlnwtYbNSZ5jw9/preview"
           }
         ]
       }
