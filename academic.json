@@ -1,0 +1,1319 @@
+[
+  {
+    "id": 0,
+    "name": "Ist semester",
+    "description": "Ist semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-I",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Calculus",
+            "link": "https://drive.google.com/file/d/1puUYK7C61XBxPxJudwgWLJ-OOLsIEkHT/view?usp=sharing"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Sequences & Series",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Fourier Series",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Multivariable Calculus (Differentiation)",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Multivariable Calculus (Integration)",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Chemistry",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Water",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Organic Fuels",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Corrosion & its control",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Engineering Materials",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Organic reaction mechanism & introduction of drugs",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Mechanical Engg",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Pumps & IC Engines",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Refrigeration & Air Conditioning",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transmission of Power",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Primary Manufacturing Processes",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Engineering Materials & Heat Treatment of Steel",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Electrical Engg",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "DC Circuits",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "AC Circuits",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Transformers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Electrical Machines",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Power Converters",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Electrical Installations",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Communication Skills",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Communication",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Grammar",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Composition",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Short Stories",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Poems",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "IInd semester",
+    "description": "IInd semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence & Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "PPS",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engg",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Harmony in the Family & Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      }
+     
+    ]
+  },
+  {
+    "id": 2,
+    "name": "IIIrd semester",
+    "description": "IIIrd semester",
+    "subjects": [
+      {
+        "sub_name": "Advanced Engg Mathematics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Random Variables",
+            "link": "https://drive.google.com/file/d/1YtARWBb0Sm_Ghns5UiQrbq_IQ7mcgh4d/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Binomial Distribution",
+            "link": "https://drive.google.com/file/d/1KG6OuC1San3pNi3ofkHj9xaRbs20HimP/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Historical Development",
+            "link": "https://drive.google.com/file/d/1ncg-RbMe4V7dygeSlQDz8_mRyKzJnh56/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Optimization using Differential Calculus",
+            "link": "https://drive.google.com/file/d/1bqeIcYpGMIZbOk1XeLorBk_91Je2ABo6/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Linear Programming",
+            "link": "https://drive.google.com/file/d/1sTN2vMhadK-4mYZHB5sCWzoETAVsz3dF/preview"
+          },
+          {
+            "unit_id": "Solved Examples",
+            "name": "Linear Programming",
+            "link": "https://drive.google.com/file/d/1mZx6YmgSx-EpA-Q_rwXjzZltG61gWJpz/preview"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "DSA",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Stacks",
+            "link": "https://drive.google.com/file/d/1puUYK7C61XBxPxJudwgWLJ-OOLsIEkHT/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Queues",
+            "link": "https://drive.google.com/file/d/1o4_Cq9sXNf-D1fanG7_uPs8StAa-_fWt/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Searching Techniques",
+            "link": "https://drive.google.com/file/d/1957wHhpPbM3Rgj3dPiURD9R8Pw6jIxbC/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Trees",
+            "link": "https://drive.google.com/file/d/1-0vEnpXnU-gyEi6xjjsNBznQ-2izGkft/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Graphs",
+            "link": "https://drive.google.com/file/d/1bSVxX16NYPMTTopMP-1xmUtRdd6Roqxw/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "Digital Electronics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamental concepts",
+            "link": "https://drive.google.com/file/d/1Jgad5JA8BHRjJZdE5EaJdI0e9tsUPgUa/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Minimization Techniques",
+            "link": "https://drive.google.com/file/d/1teboCWRofgbjiZYr2BrqiBXrhLrux742/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Digital Logic Gate",
+            "link": "https://drive.google.com/file/d/1OM-ggs3yFXahQGDNs097VN-ExAm8lsXw/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Combinational Circuits",
+            "link": "https://drive.google.com/file/d/1NB5YlqZmFN5OFOLIcnCKkSf1sB5Bs2Bz/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Sequential Circuits",
+            "link": "https://drive.google.com/file/d/1Gw6lNDzYk-5D1pkLBXZ1vGFTeNnuGByy/preview"
+          },
+          {
+            "unit_id": "Complete DE Notes",
+            "name": "All units",
+            "link": "https://drive.google.com/file/d/150LCPuJUr5zeLPW1LSbVkJGs_sYYgSMK/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "MEFA",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Basic economic concepts",
+            "link": "https://drive.google.com/file/d/1WdOiQmpx_vDYkzL4fHQCdkrN-rtRx41a/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Demand & Supply",
+            "link": "https://drive.google.com/file/d/14Uqy7VwAVxh1Kwkuvzn_XuKC6sU2_FHL/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Production & Cost analysis",
+            "link": "https://drive.google.com/file/d/1cKgZ6Yg1x_Lw_mJ0Py_wvJQ1MYYErIak/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Market structure & pricing theory",
+            "link": "https://drive.google.com/file/d/1yO3o9wRvGBi68DI9ryGKCMVnoOthArdH/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Financial statement",
+            "link": "https://drive.google.com/file/d/12asV1oLnjJhaVY8_Hqw1h_-KHwZaTG0l/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "OOPs",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "https://drive.google.com/file/d/10UD-Qwa1AuTQpgKv-_RP9DkYFOdN6mfa/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Concept of OOPS",
+            "link": "https://drive.google.com/file/d/1P9Ic0Rt3szOTEi3m_3vrzyDH2qa0ia8U/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Inheritance & Polymorphism",
+            "link": "https://drive.google.com/file/d/1Y2ixHs_0OnNBQWcBZlxjVL6tDDag6yh3/preview"
+          },
+          {
+            "unit_id": "All Units",
+            "name": "Complete unit",
+            "link": "https://drive.google.com/file/d/1TU3IpGfqMdrcYcih88Q9myaFk1CJmHCT/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "Software Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "https://drive.google.com/file/d/1tL93ccb-RNwATY9-6Y6LkOsYlYR3ReFr/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Software Project Management",
+            "link": "https://drive.google.com/file/d/1LDjslt9RBf287orNEXmdIu-IGwSoOzgj/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Requirement Analysis",
+            "link": "https://drive.google.com/file/d/1oFxY8OAaxWzXfGR8rOHgFBKnrWXdJ2Et/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Software Design",
+            "link": "https://drive.google.com/file/d/1DU-sQMjOt0HKJkFBfUWnHTA7K3r7Z4_t/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Object Oriented Analysis",
+            "link": "https://drive.google.com/file/d/1TH_DogIuDIou7nfIDl6HAw-QoXKKjvhR/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "Rtu Solved Papers",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Advanced-Engineering-Mathematics-2019",
+            "link": "https://drive.google.com/file/d/1-vOHlxUVlUNjoNji5e5y2WAP-oNF7hbV/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "DIGITAL-ELECTRONICS-2019",
+            "link": "https://drive.google.com/file/d/1cNNwo99TLYPTHmivVETaIyumOIv1audZ/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "DSA-2019",
+            "link": "https://drive.google.com/file/d/1f60OOvhYAVPMyasCAJmtg6Gv0txWhglt/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "MEFA-Exam solution",
+            "link": "https://drive.google.com/file/d/1ZRrSpTWUZbihnMtC2WMGUwBueRLacBQp/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "OOP-2019-Solved",
+            "link": "https://drive.google.com/file/d/1pX-jgSUQkk1C7Ymunt9BgNnklEYCFayQ/preview"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Software Engineering-2019",
+            "link": "https://drive.google.com/file/d/1R0AzHaHb0LzKKERE26IlnwtYbNSZ5jw9/preview"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "IVth semester",
+    "description": "IVth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence & Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      }
+     
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vth semester",
+    "description": "Vth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence & Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      }
+     
+    ]
+  },
+  {
+    "id": 5,
+    "name": "VIth semester",
+    "description": "VIth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence & Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "VIIth semester",
+    "description": "VIIth semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "VIII semester",
+    "description": "VIII semester",
+    "subjects": [
+      {
+        "sub_name": "Engineering Mathematics-II",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Matrices",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "First order ordinary differential equations",
+            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Ordinary differential equations of higher orders",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Partial Differential Equations – First order",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Partial Differential Equations– Higher order",
+            "link": "linker.com"
+          }
+        ]
+      },
+
+      {
+        "sub_name": "Engineering Physics",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Quantum Mechanics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Coherence and Optical Fibers",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Laser",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Material Science & Semiconductor Physics",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit6",
+            "name": "Introduction to Electromagnetism",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Programming for Problem Solving",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Fundamentals of Computer",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Number system",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "C Programming",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Basic Civil Engineering",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Surveying",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Buildings",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Transportation",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Environmental Engineering",
+            "link": "linker.com"
+          }
+        ]
+      },
+      {
+        "sub_name": "Human Values",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Course Introduction",
+            "link": "link.com"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Understanding Harmony in the Human Being",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Understanding Harmony in the Family and Society",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Understanding Harmony in the Nature and Existence",
+            "link": "linker.com"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Understanding of Harmony on Professional Ethics",
+            "link": "linker.com"
+          }
+        ]
+      }
+    ]
+  }
+]

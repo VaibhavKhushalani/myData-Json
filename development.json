@@ -1,0 +1,1871 @@
+[
+  {
+    "id": 0,
+    "Course": "C Language",
+    "Avg": "Avg.Time: 3 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1ed1s-enUHv7f5ZVRKrJnSg9Eb9C4X8dU",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1xqWD8bySyhGB7kpBoj7c6vyXI7gOoyuy",
+    "Details": "C is a structured programming language which allows a complex program to be broken into simpler programs called functions. It also allows free movement of data across these functions. ... C is highly  portable and is used for scripting system applications which form a major part of Windows, UNIX, and Linux operating system.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "988k+",
+        "Link": "https://youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
+      },
+      {
+        "Youtuber_name": "MySirG.com",
+        "Subcribers": "681K+",
+        "Views": "2786k+",
+        "Link": "https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW"
+      },
+      {
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "24k+",
+        "Link": "https://www.youtube.com/watch?v=bPp_Nr71GxY&list=PLS1QulWo1RIZFMIqY6IMCBkcAQTEvMEIo"
+      },
+      {
+        "Youtuber_name": "Neso Academy",
+        "Subcribers": "1.2M+",
+        "Views": "607K+",
+        "Link": "https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+      },
+      {
+        "Youtuber_name": "Ankpro Training",
+        "Subcribers": "19.2K+",
+        "Views": "74K+",
+        "Link": "https://www.youtube.com/watch?v=PmMRCUqeBqs&list=PLUtTaqnx2RJLSUZgv0zp0aNWy9e1cbKd9"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "1,028K+",
+        "Link": "https://www.youtube.com/watch?v=8PopR3x-VMY&list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Tutorialspoint",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/cprogramming/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/c-programming-language-tutorial"
+      },
+      {
+        "Website_name": "Programiz",
+        "Users": "9.67M+",
+        "Link": "https://www.programiz.com/c-programming"
+      },
+      {
+        "Website_name": "Cprogramming",
+        "Users": "570.78K+",
+        "Link": "https://www.cprogramming.com/tutorial/c-tutorial.html"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/c-programming-language/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "The C Programming Language",
+        "Author": "EasyProgramming Publisher",
+        "Link": "https://drive.google.com/file/d/1-deDZvfX9olgUR93_2M6zxyaKVllyeTk/view?usp=sharing"
+      },
+      {
+        "Book_name": "C Programming",
+        "Author": "Greg Perry and Dean Miller",
+        "Link": "https://drive.google.com/file/d/19PUNwN0-WNHeoTv3Cjqr-j-ym9zORfMK/view?usp=sharing"
+      },
+      {
+        "Book_name": "Expert C Programming: Deep C Secrets",
+        "Author": "Peter van der Linden",
+        "Link": "https://drive.google.com/file/d/1p6vCeq5vKRI8MF0zuuD4gtfAie81MXT8/view?usp=sharing"
+      },
+      {
+        "Book_name": "Hands-On Network Programming with C",
+        "Author": "Lewis Van Winkle",
+        "Link": "https://drive.google.com/file/d/1P1D3pSDp15idOunH4zqYxbphm5Vr2aH3/view?usp=sharing"
+      },
+      {
+        "Book_name": "Head First C",
+        "Author": "David Griffiths",
+        "Link": "https://drive.google.com/file/d/1rhhdiLMj9HYbG8hGS1OLbbFXXSVCHCoz/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learn C programming",
+        "Author": "Tutorials Point",
+        "Link": "https://drive.google.com/file/d/1Wfr1bv3d_h8jwUra33vbKXMEiX4p4T86/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learn to Program with C",
+        "Author": "Noel Kalicharan",
+        "Link": "https://drive.google.com/file/d/1tsS_07eqfiiurG2hj02zP5x8K3Xbmz4v/view?usp=sharing"
+      },
+      {
+        "Book_name": "Let Us C",
+        "Author": "Yashavant Kanetkar",
+        "Link": "https://drive.google.com/file/d/1cBjHJB1ALemvFEkqmB4FHolNlPAeZADI/view?usp=sharing"
+      },
+      {
+        "Book_name": "THE C PROGRAMMING LANGUAGE",
+        "Author": "Brian W. Kernighan, Dennis M. Ritchie",
+        "Link": "https://drive.google.com/file/d/11-OgxnQNlJfuTrb3i9ll3KDyEeNrqrOD/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "Course": "C++ Language",
+    "Avg": "Avg.Time: 12 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1jjNWMqXVK8M12UIdaDoujjAkXV_VUTHs",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1yJWOD-ykDYIjr_AC0w3aw_MmCTwjGup0",
+    "Details": "C++ is known to be a very powerful language. C++ allows you to have a lot of control as to how you use computer resources, so in the right hands, its speed and ability to cheaply use resources should be able to surpass other languages.C++ has a very big job market as it is used in various industries like finance, app development, game development, Virtual reality, etc.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "947K+",
+        "Link": "https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL"
+      },
+      {
+        "Youtuber_name": "Apna College",
+        "Subcribers": "611K+",
+        "Views": "2,335K+",
+        "Link": "https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"
+      },
+      {
+        "Youtuber_name": "C++ by Saurabh Shukla Sir",
+        "Subcribers": "185K+",
+        "Views": "1,374K+",
+        "Link": "https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF"
+      },
+      {
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "442K+",
+        "Link": "https://www.youtube.com/watch?v=e1YafrxYOWw&list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK"
+      },
+      {
+        "Youtuber_name": "Neso Academy",
+        "Subcribers": "1.2M+",
+        "Views": "32K+",
+        "Link": "https://www.youtube.com/watch?v=s0g4ty29Xgg&list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/cplusplus/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/cpp-tutorial"
+      },
+      {
+        "Website_name": "Programiz",
+        "Users": "9.67M+",
+        "Link": "https://www.programiz.com/cpp-programming"
+      },
+      {
+        "Website_name": "cplusplus",
+        "Users": "3.70M+",
+        "Link": "https://www.cplusplus.com/doc/tutorial/"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/cpp-tutorial/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Accelerated C++ Practical Programming by Example",
+        "Author": "Andrew Koenig and Barbara E. Moo",
+        "Link": "https://drive.google.com/file/d/1UEIMNfJIe-L3Sxv6CH0V7jIwABVu7r5p/view?usp=sharing"
+      },
+      {
+        "Book_name": "C++ Pocket Reference",
+        "Author": "Kyle Loudon",
+        "Link": "https://drive.google.com/file/d/14feFUR3VtaFfG_QvXxYTCiRRAN5GtkPB/view?usp=sharing"
+      },
+      {
+        "Book_name": "C++ Programming",
+        "Author": "Mike McGrath",
+        "Link": "https://drive.google.com/file/d/1l0SUyaGnHeqULEQvTKV3ZyXPKKuv4kJo/view?usp=sharing"
+      },
+      {
+        "Book_name": "C++ The Complete Reference",
+        "Author": "Herbert Schildt",
+        "Link": "https://drive.google.com/file/d/1fpnhlltuFk-0ad4lRDZSU6eqWY2vjHf6/view?usp=sharing"
+      },
+      {
+        "Book_name": "Starting Out with C++ from Control Structures to Objects",
+        "Author": "Tony Gaddis",
+        "Link": "https://drive.google.com/file/d/1DfXNFP9JW57zNkwWiaEvqo8-kwZXI7kN/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Course": "C Sharp",
+    "Avg": "Avg.Time: 8 weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1pfczc-wob5pSXnyWzhi2MqTSvKiLKuv6",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1wm-XQjxPUBYAdLbG-HtsS8P4hFjCUVnB",
+    "Details": "If you want to get into computer programming, C# is one of the easiest programming languages among them all. Here are the reasons why you should learn C#.A modern language is one that supports the latest features for developing scalable, reliable, and robust industry standard software applications. C# is a modern language. C# language supports everything modern programmers need in a language.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Naresh i Technologies",
+        "Subcribers": "784K+",
+        "Views": "796K+",
+        "Link": "https://www.youtube.com/watch?v=0u9k-kOR3KE&list=PLVlQHNRLflP-jc5Fbhfdhzv52AWYq836j"
+      },
+      {
+        "Youtuber_name": "Learning Never Ends",
+        "Subcribers": "21.4K+",
+        "Views": "66K+",
+        "Link": "https://www.youtube.com/watch?v=QxJaNIo1DUo&list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR"
+      },
+      {
+        "Youtuber_name": "Tutorials Point (India) Ltd.",
+        "Subcribers": "2.33M+",
+        "Views": "94K+",
+        "Link": "https://www.youtube.com/watch?v=MhdxhUgSpFw&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM"
+      },
+      {
+        "Youtuber_name": "Programming with Mosh",
+        "Subcribers": "1.86M+",
+        "Views": "3,106K+",
+        "Link": "https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef"
+      },
+      {
+        "Youtuber_name": "kudvenkat",
+        "Subcribers": "666K+",
+        "Views": "3,044K+",
+        "Link": "https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/csharp/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/c-sharp-tutorial"
+      },
+      {
+        "Website_name": "w3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/cs/index.php"
+      },
+      {
+        "Website_name": "Tutorialsteacher",
+        "Users": "2.01M+",
+        "Link": "https://www.tutorialsteacher.com/csharp/csharp-tutorials"
+      },
+      {
+        "Website_name": "c-sharpcorner",
+        "Users": "6.36M+",
+        "Link": "https://www.c-sharpcorner.com/article/C-Sharp-tutorial/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Agile Principles, Patterns, and Practices in C",
+        "Author": "Robert C. Martin",
+        "Link": "https://drive.google.com/file/d/10jf1FQbNhD2ur54xJR1_a8AGeBnXTYe8/view?usp=sharing"
+      },
+      {
+        "Book_name": "C 7.0 Pocket Reference Instant Help for C 7.0 Programmers",
+        "Author": "Joseph Albahari, Ben Albahari",
+        "Link": "https://drive.google.com/file/d/1LGPcQwEU0A2Yc8jtMwp0hsd7XoB7-UZY/view?usp=sharing"
+      },
+
+      {
+        "Book_name": "C 8.0 and .NET Core 3.0 – Modern Cross-Platform Development",
+        "Author": "Mark J. Price",
+        "Link": "https://drive.google.com/file/d/1wJfEBCkNzO8G0ey6OoczW7SsoyCEweiw/view?usp=sharing"
+      },
+      {
+        "Book_name": "C in Depth",
+        "Author": "Jon Skeet",
+        "Link": "https://drive.google.com/file/d/1DzSx-7k6_kAe8fQEK-16O3cXHB7XECbB/view?usp=sharing"
+      },
+      {
+        "Book_name": "The C Player’s Guide",
+        "Author": "RB Whitaker",
+        "Link": "https://drive.google.com/file/d/1BXf8gvsMbFJtFXcySe7wmZu01SNNP_e1/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Course": "Python Core",
+    "Avg": "Avg.Time: 10 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1IzfXTJh9_tC_sktzg-CbLa9_yOlk5-Zq",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1_LGfsjzH_yNn56K3WL1948zKdXt3Nnu9",
+    "Details": "The python language is one of the most accessible programming languages available because it has simplified syntax and not complicated, which gives more emphasis on natural language. Due to its ease of learning and usage, python codes can be easily written and executed much faster than other programming languages.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Geeky Shows",
+        "Subcribers": "360K+",
+        "Views": "150K+",
+        "Link": "https://www.youtube.com/watch?v=URfNAAuZ52w&list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L"
+      },
+      {
+        "Youtuber_name": "Telusko",
+        "Subcribers": "1.42M+",
+        "Views": "4,032K+",
+        "Link": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
+      },
+      {
+        "Youtuber_name": "Harshit vashisth",
+        "Subcribers": "163K+",
+        "Views": "1,461K+",
+        "Link": "https://www.youtube.com/watch?v=RAwntanK4wQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j"
+      },
+      {
+        "Youtuber_name": "CodeWithHarry",
+        "Subcribers": "1.6M+",
+        "Views": "1,154K+",
+        "Link": "https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME"
+      },
+      {
+        "Youtuber_name": "Corey Schafer",
+        "Subcribers": "798K+",
+        "Views": "760K+",
+        "Link": "https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"
+      },
+      {
+        "Youtuber_name": "edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "3,384K+",
+        "Link": "https://www.youtube.com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/python/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/python-tutorial"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/"
+      },
+      {
+        "Website_name": "Programiz",
+        "Users": "9.67M+",
+        "Link": "https://www.programiz.com/python-programming"
+      },
+      {
+        "Website_name": "w3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/python/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Python 3 for Absolute Beginners",
+        "Author": "Tim Hall and J-P Stacey",
+        "Link": "https://drive.google.com/file/d/1P0lJ-OfQsfPDZ1zLTOUCvwa1l3jOT0x1/view?usp=sharing"
+      },
+      {
+        "Book_name": "Python Crash Course A Hands-On, Project-Based Introduction to Programming",
+        "Author": "Eric Matthes",
+        "Link": "https://drive.google.com/file/d/1wjwaMCYXoT3mQBEA5_0VleUxMHaFGdDi/view?usp=sharing"
+      },
+      {
+        "Book_name": "Python Crash Course, 2nd Edition A Hands-On, Project-Based Introduction to Programming",
+        "Author": "Eric Matthes",
+        "Link": "https://drive.google.com/file/d/1xrxtMTZuVdpRBViNcflme9MJiYSHcV6W/view?usp=sharing"
+      },
+      {
+        "Book_name": "Python3",
+        "Author": "Tutorials Point",
+        "Link": "https://drive.google.com/file/d/184zcMEiHfz6uT0wZhCEIoAI29C6r0nW5/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Course": "Java",
+    "Avg": "Avg.Time: 10 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1ENvljMOUujSh8FMzVKycLi8m6KZ0EK1G",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1JWxVozc0PyTbTbfoC5RvwpK5Hu0A_O43",
+    "Details": "The aspect which makes Java one of the most appealing languages is that it, at its core, Java is an object-oriented programming (OOP) language. OOP offers a neat modular structure, thereby making it easier to solve complex problems. Its modular nature helps programmers to write reusable code and also enhances the development process.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Code with Harry",
+        "Subcribers": "1.6M+",
+        "Views": "1,057K+",
+        "Link": "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
+      },
+      {
+        "Youtuber_name": "Neso Academy",
+        "Subcribers": "1.2M+",
+        "Views": "205K+",
+        "Link": "https://www.youtube.com/watch?v=VHbSopMyc4M&list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5"
+      },
+      {
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "4,306K+",
+        "Link": "https://www.youtube.com/watch?v=r59xYe3Vyks&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al"
+      },
+      {
+        "Youtuber_name": "Java by Saurabh Shukla Sir",
+        "Subcribers": "187K+",
+        "Views": "1,514K+",
+        "Link": "https://www.youtube.com/watch?v=IsLyduxZ9sc&list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "309K+",
+        "Link": " https://www.youtube.com/watch?v=qvf2FMtJPZY&list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/java/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/java-tutorial"
+      },
+      {
+        "Website_name": "w3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/java/"
+      },
+      {
+        "Website_name": "Programiz",
+        "Users": "9.67M+",
+        "Link": "https://www.programiz.com/java-programming"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/java/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Head First Java, 2nd Edition",
+        "Author": "Kathy Sierra, Bert Bates",
+        "Link": "https://drive.google.com/file/d/15muVY3bc-mfdJijTOdFmvXabaUyBe02S/view?usp=sharing"
+      },
+      {
+        "Book_name": "Java Programming",
+        "Author": "Joyce Farrell",
+        "Link": "https://drive.google.com/file/d/1ggI_ppEO_vw7kyPKHk4Vu_NvElIq0H62/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learn Java in One Day and Learn It Well",
+        "Author": "Jamie Chan",
+        "Link": "https://drive.google.com/file/d/1-m2hbNmL2kUw9EbaGqr2h-mIKmXWlzOj/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Course": "JavaScript",
+    "Avg": "Avg.Time: 6 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1bTXZMYkTl4vEizb_MGyKIQPJmazMC8MC",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1NeVybEDPZmi_ebgT3mTUJHW37O7BY-i1",
+    "Details": "JavaScript is commonly used for creating web pages. It allows us to add dynamic behavior to the webpage and add special effects to the webpage. On websites, it is mainly used for validation purposes. JavaScript helps us to execute complex actions and also enables the interaction of websites with visitors.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "826K+",
+        "Link": "https://www.youtube.com/watch?v=KGkiIBTq0y0"
+      },
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "162K+",
+        "Link": "https://www.youtube.com/watch?v=uGRZ2CzkFUo&list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0"
+      },
+      {
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "410K+",
+        "Link": "https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL"
+      },
+      {
+        "Youtuber_name": "Geeky Shows",
+        "Subcribers": "360K+",
+        "Views": "114K+",
+        "Link": "https://www.youtube.com/watch?v=eezTCf0EXXs&list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "91K+",
+        "Link": "https://www.youtube.com/watch?v=J4UKL355sUo&list=PL9ooVrP1hQOGoYVit61V7Y1uPzfnBvN86"
+      },
+      {
+        "Youtuber_name": "Hitesh Choudhary",
+        "Subcribers": "645K+",
+        "Views": "140K+",
+        "Link": "https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/javascript/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/javascript-tutorial"
+      },
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/js/"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/javascript-tutorial/"
+      },
+      {
+        "Website_name": "Developer.mozilla.org",
+        "Users": "40.42M+",
+        "Link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Head First JavaScript Programming A Brain-Friendly Guide",
+        "Author": "Eric T. Freeman, Elisabeth Robson",
+        "Link": "https://drive.google.com/file/d/1eWAPMWxv82Y0mD7qotSNi6kDtpeDdARL/view?usp=sharing"
+      },
+      {
+        "Book_name": "JavaScript The Definitive Guide Master the Worlds Most-Used Programming Language",
+        "Author": "David Flanagan",
+        "Link": "https://drive.google.com/file/d/1HsjqU3u7DLCYodBkjKVka3oaJ26VOX35/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learn Javascript Visually",
+        "Author": "Ivelin Demirov",
+        "Link": "https://drive.google.com/file/d/1njTxUe5k3ZS-uPu24ysOys-Nw0Ite-ED/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "Course": "HTML,CSS",
+    "Avg": "Avg.Time: 3 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1hiVuxGCM1zZgOHt9KHpbvIE9ZFhWmhdC",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1BAN-VtMFa4mwHJZJ0DqBc7xXA3ta4tpc",
+    "Details": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets. CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Apna College",
+        "Subcribers": "611K+",
+        "Views": "1,070K+",
+        "Link": "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n"
+      },
+      {
+        "Youtuber_name": "CodeWithHarry",
+        "Subcribers": "1.6M+",
+        "Views": "1,695K+",
+        "Link": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+      },
+      {
+        "Youtuber_name": "Harshit vashisth",
+        "Subcribers": "163K+",
+        "Views": "117K+",
+        "Link": "https://www.youtube.com/watch?v=luAkR9VaLcw&list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB"
+      },
+      {
+        "Youtuber_name": "Tech Gun",
+        "Subcribers": "73.5K+",
+        "Views": "34K+",
+        "Link": "https://www.youtube.com/watch?v=uX9OsJQ7FJY&list=PLjpp5kBQLNTSdLVVjU_kea8J8lP24ZseT"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "172K+",
+        "Link": "https://www.youtube.com/watch?v=a2L8ra2TOMg&list=PL9ooVrP1hQOH2k1SANK5rvq_EAgUKTPoK"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/html/default.asp"
+      },
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/css/"
+      },
+      {
+        "Website_name": "Learn.shayhowe",
+        "Users": "202.96K+",
+        "Link": "https://learn.shayhowe.com/html-css/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/html/index.htm"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/css/index.htm"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Build Your Own Website A Comic Guide to HTML, CSS and Wordpress",
+        "Author": "Nate Cooper",
+        "Link": "https://drive.google.com/file/d/1ebd3URWg-SpqrTCB2HpZCQFVQSJLKVeH/view?usp=sharing"
+      },
+      {
+        "Book_name": "Head First HTML and CSS, 2nd Edition",
+        "Author": "Elisabeth Robson, Eric Freeman",
+        "Link": "https://drive.google.com/file/d/1pNnbv9AD3HSWyJrKAKXghU5Vnguydg7p/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics",
+        "Author": "Jennifer Niederst Robbins",
+        "Link": "https://drive.google.com/file/d/1QMLRFZTwvKZ7dwyogIhIUktwIeH0ZhRU/view?usp=sharing"
+      },
+      {
+        "Book_name": "Sams Teach Yourself HTML, CSS  JavaScript Web Publishing in One Hour a Day",
+        "Author": "Laura Lemay, Rafe Colburn, Jennifer Kyrnin",
+        "Link": "https://drive.google.com/file/d/1EMBd0XtXVKVkbY5r1VGoS_oGpNCxiqn5/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "Course": "RESPONSIVE",
+    "Avg": "Avg.Time: 6 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1dF8gBJmWC1Km7qlRhdknm8GG4jUyfQ-E",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=11rixrHWBbJPXr6owhQMFIu2P1cgHO4kz",
+    "Details": "Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size on which it is viewed. It keeps images from being larger than the screen width, and prevents visitors on mobile devices from needing to do extra work to read your content.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Online Tutorials",
+        "Subcribers": "512K+",
+        "Views": "127K+",
+        "Link": " https://www.youtube.com/watch?v=X8NFkUQNeek&list=PL5e68lK9hEzci2jh7qgXDICUARtZ16Ec4"
+      },
+      {
+        "Youtuber_name": "The Net Ninja",
+        "Subcribers": "746K+",
+        "Views": "143K+",
+        "Link": " https://www.youtube.com/watch?v=3tLb3i7GB38&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw"
+      },
+      {
+        "Youtuber_name": "Mr. Web Designer",
+        "Subcribers": "11.6K+",
+        "Views": "10K+",
+        "Link": " https://www.youtube.com/watch?v=9DJrsu-2Zvs&list=PLSJxovi1IyDH-pPIe0OF0z_mW-WVdhmhx"
+      },
+      {
+        "Youtuber_name": "FreeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "569K+",
+        "Link": "https://www.youtube.com/watch?v=srvUrASNj0s"
+      },
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "84K+",
+        "Link": " https://www.youtube.com/watch?v=FZ_ZOw1fVn0"
+      },
+      {
+        "Youtuber_name": "Dev Ed",
+        "Subcribers": "667K+",
+        "Views": "681K+",
+        "Link": " https://www.youtube.com/watch?v=ZeDP-rzOnAA"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/css/css_rwd_intro.asp"
+      },
+      {
+        "Website_name": "Developer.mozilla.org",
+        "Users": "40.42M+",
+        "Link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+      },
+      {
+        "Website_name": "Tutorialspoint",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/css/css_responsive.htm"
+      },
+      {
+        "Website_name": "Learn.shayhowe",
+        "Users": "202.96K+",
+        "Link": "https://learn.shayhowe.com/advanced-html-css/responsive-web-design/"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-responsive-design"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Jump Start Responsive Web Design Modern Responsive Solutions",
+        "Author": "Chris Ward",
+        "Link": "https://drive.google.com/file/d/1d2w8NCsgd1ay4vKQiGWtsGRKYrbH4hL7/view?usp=sharing"
+      },
+      {
+        "Book_name": "Responsive Web Design",
+        "Author": "Ethan Marcotte",
+        "Link": "https://drive.google.com/file/d/1vrQrWtfUjmPbjOqzHP9Ak0VOHFnf18TM/view?usp=sharing"
+      },
+      {
+        "Book_name": "Responsive Web Design with HTML5 and CSS3",
+        "Author": "Ben Frain",
+        "Link": "https://drive.google.com/file/d/1iRIF6njlGtLwCfKYCXKXyFB8Rt9oIA57/view?usp=sharing"
+      },
+      {
+        "Book_name": "Web Development with Angular and Bootstrap Embrace responsive web design",
+        "Author": "Sridhar Rao Chivukula Aki Iskandar",
+        "Link": "https://drive.google.com/file/d/1FTJad4O0yqLIphzOCpDt3Y-xJTTcKlAQ/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "Course": "Data Science",
+    "Avg": "Avg.Time: 8 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1ycByBs3fqeVw_L3URg0xNiXia8-U3SUv",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1a7NFTOATqT4zlW0-b1EBeHNQZ_kEWNzK",
+    "Details": "Data science provides the inside knowledge, which is derived from the big data after processes of extraction and the information. ... Data is the key component for every business, as businesses need it to analyze their current scenario based on past facts and performance and make decisions for future challenges.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Codebasics",
+        "Subcribers": "359K+",
+        "Views": "126K+",
+        "Link": " https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV"
+      },
+      {
+        "Youtuber_name": "The Engineering World",
+        "Subcribers": "21.7K+",
+        "Views": "84K+",
+        "Link": "https://www.youtube.com/watch?v=Uct_EbThV1E&list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "274K+",
+        "Link": " https://www.youtube.com/watch?v=KdgQvgE3ji4&list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX"
+      },
+      {
+        "Youtuber_name": "Indian AI Production",
+        "Subcribers": "22.8K+",
+        "Views": "90K+",
+        "Link": " https://www.youtube.com/watch?v=tMZn54M8tGU&list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8"
+      },
+      {
+        "Youtuber_name": "IIT Roorkee July 2018",
+        "Subcribers": "77.3K+",
+        "Views": "140K+",
+        "Link": " https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/datascience/"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/data-science"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/python_data_science/index.htm"
+      },
+      {
+        "Website_name": "Datacamp",
+        "Users": "5.50M+",
+        "Link": "https://www.datacamp.com/community/tutorials"
+      },
+      {
+        "Website_name": "Geeks for Geeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/data-science-fundamentals/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Data Science with R A Step By Step Guide With Visual Illustrations and Examples",
+        "Author": "Andrew Oleksy",
+        "Link": "https://drive.google.com/file/d/1PL68St11oBQ9DMDjw4Vg4xyrARw3A8-u/view?usp=sharing"
+      },
+      {
+        "Book_name": "Introducing Data Science Big Data, Machine Learning, and more, using Python tools",
+        "Author": "Davy Cielen, Arno Meysman, Mohamed Ali",
+        "Link": "https://drive.google.com/file/d/1r-zS1x7gK2JvdZ--Uh7gkKqTXQgqwpps/view?usp=sharing"
+      },
+      {
+        "Book_name": "The Art of Data Science A Guide for Anyone Who Works with Data",
+        "Author": "Roger D. Peng, Elizabeth Matsui",
+        "Link": "https://drive.google.com/file/d/1qr1L4KBmk3-LPlodTOu-0GcP3phvpyyD/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "Course": "SQL",
+    "Avg": "Avg.Time: 3 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1YFdbUY9HAfOOz7E7IczwSSDAsjcWS78N",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1032sG2mK7DyDeVWu6H-KKMMwOQZr3Dnb",
+    "Details": "SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "QAFox",
+        "Subcribers": "8K+",
+        "Views": "12K+",
+        "Link": "https://www.youtube.com/watch?v=pVKT4N-Cgb8&list=PLsjUcU8CQXGFFAhJI6qTA8owv3z9jBbpd"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "331K+",
+        "Link": " https://www.youtube.com/watch?v=WmGgxTpGs_8&list=PL9ooVrP1hQOGECN1oA2iXcWFBTRYUxzQG"
+      },
+      {
+        "Youtuber_name": "Intellipaat",
+        "Subcribers": "1.04M+",
+        "Views": "969K+",
+        "Link": " https://www.youtube.com/watch?v=JTDK6r1GuUU&list=PLVHgQku8Z936E51WaMbEHML6LutrGCSYr"
+      },
+      {
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "48K+",
+        "Link": "https://www.youtube.com/watch?v=e1LPfehYSgg&list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse"
+      },
+      {
+        "Youtuber_name": "Fundamentals of database systems",
+        "Subcribers": "5.15K+",
+        "Views": "24K+",
+        "Link": "https://www.youtube.com/watch?v=-gVcV-OFOyI&list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/sql/default.Asp"
+      },
+      {
+        "Website_name": "Tutorialspoint",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/sql/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/sql-tutorial"
+      },
+      {
+        "Website_name": "Geeksforgeeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/sql-tutorial/"
+      },
+      {
+        "Website_name": "Sqltutorial",
+        "Users": "373.84K",
+        "Link": "https://www.sqltutorial.org/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Advanced PostgreSQL SQL Injection and Filter Bypass Techniques",
+        "Author": "Leon Juranić",
+        "Link": "https://drive.google.com/file/d/12Wxxv3R0ro8BF5ITDFvrtj_aS1Xvhpub/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "Course": "PHP",
+    "Avg": "Avg.Time: 10 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=13nF0uqI8j3Lx6g5IFznTTPqhjVHeNOHc",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1fLE3Xa0GY6ak3i4SSnSFf3p5GKXPmfjZ",
+    "Details": "PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more. There are three main areas where PHP scripts are used. Server-side scripting.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Code with Harry",
+        "Subcribers": "1.6M+",
+        "Views": "272K+",
+        "Link": "https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR"
+      },
+      {
+        "Youtuber_name": "Yahoo Baba",
+        "Subcribers": "117K+",
+        "Views": "412K+",
+        "Link": "https://www.youtube.com/watch?v=a_qREkJ78f4&list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs"
+      },
+      {
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "804K+",
+        "Link": "https://www.youtube.com/watch?v=yMclPkD4sQg&list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg"
+      },
+      {
+        "Youtuber_name": "PHP-MySQL by Saurabh Shukla Sir",
+        "Subcribers": "74.6K+",
+        "Views": "416K+",
+        "Link": " https://www.youtube.com/watch?v=v1otHJGlV5g&list=PLEiPMJpUdbj6a2p9Pt6tBdJhcqmWgX7Oa"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "478K+",
+        "Link": " https://www.youtube.com/watch?v=GIRcpjg-3Eg&list=PL9ooVrP1hQOFB2yjxFbK-Za8HwM5v1NC5"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/php/DEFAULT.asp"
+      },
+      {
+        "Website_name": "PHP",
+        "Users": "8.81M+",
+        "Link": "https://www.php.net/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/php/index.htm"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-php"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/php-tutorial"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Head First PHP  MySQL",
+        "Author": "Lynn Beighley, Michael Morrison",
+        "Link": "https://drive.google.com/file/d/1Q5i0UZZugeCFlqdZjKsymhVCFWl9N5Uz/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learning PHP, MySQL  JavaScript - With jQuery, CSS  HTML5",
+        "Author": "Robin Nixon",
+        "Link": "https://drive.google.com/file/d/1VZYEE4oaclunIlkjPz5tyM5pY0cfu1f3/view?usp=sharing"
+      },
+      {
+        "Book_name": "PHP 7 Solutions Dynamic Web Design Made Easy",
+        "Author": "David Powers",
+        "Link": "https://drive.google.com/file/d/1lAYgnyU2pOdOk55Xun-MDcNEhZW-ZPSq/view?usp=sharing"
+      },
+      {
+        "Book_name": "PHP Learn PHP in One Day and Learn It Well",
+        "Author": "LCF Publishing, Jamie Chan",
+        "Link": "https://drive.google.com/file/d/1RVUivCTb6U514pFV9KqkCrrlQIjPQdjm/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "Course": "Node js",
+    "Avg": "Avg.Time: 10 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=19HRIcZp1WWAlQBAnAMbGD3ieWGZI_3k-",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1Rq54rsPWLHSFto8GbjaF17EADybJhncC",
+    "Details": "Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Programming with Mosh",
+        "Subcribers": "1.86M+",
+        "Views": "3,410K+",
+        "Link": " https://www.youtube.com/watch?v=TlB_eWDSMt4"
+      },
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "1,148K+",
+        "Link": " https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8"
+      },
+      {
+        "Youtuber_name": "Telusko",
+        "Subcribers": "1.42M+",
+        "Views": "280K+",
+        "Link": " https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG"
+      },
+      {
+        "Youtuber_name": "FreeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "329K+",
+        "Link": " https://www.youtube.com/watch?v=Oe421EPjeBE"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "396K+",
+        "Link": " https://www.youtube.com/watch?v=JnvKXcSI7yk"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/nodejs/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/nodejs/index.htm"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/nodejs-tutorial"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-node-js"
+      },
+      {
+        "Website_name": "Tutorialsteacher",
+        "Users": "2.01M+",
+        "Link": "https://www.tutorialsteacher.com/nodejs/nodejs-tutorials"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Get Programming with Node.js",
+        "Author": "Jonathan Wexler",
+        "Link": "https://drive.google.com/file/d/169IIqKpSOS1VrOG5n8L8-4o113cgxx2s/view?usp=sharing"
+      },
+      {
+        "Book_name": "Node.js 8 the Right Way Practical, Server-Side JavaScript That Scales",
+        "Author": "Jim Wilson",
+        "Link": "https://drive.google.com/file/d/1gsEO7i9BhS4xQ8eUKclNVEOh7Omt1GXM/view?usp=sharing"
+      },
+      {
+        "Book_name": "Practical Node.js Building Real-World Scalable Web Apps",
+        "Author": "Azat Mardan",
+        "Link": "https://drive.google.com/file/d/1xUbWhEyjU-Ok-GWH5un5Wd_xHhtGDoTK/view?usp=sharing"
+      }
+
+    ]
+  },
+  {
+    "id": 12,
+    "Course": "React js",
+    "Avg": "Avg.Time: 6 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1dS3TEFuDc-fuFwrGtKrLaKzgk9KW5QJa",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1_mxEUGfx-vNhGgvvJaWHkjkbfektJnYS",
+    "Details": "React.js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It’s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. React was first created by Jordan Walke, a software engineer working for Facebook. React first deployed on Facebook’s newsfeed in 2011 and on Instagram.com in 2012.React allows developers to create large web applications that can change data, without reloading the page.The main purpose of React is to be fast, scalable, and simple.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "3,115K+",
+        "Link": " https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ"
+      },
+      {
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "435K+",
+        "Link": " https://www.youtube.com/watch?v=RGKi6LSPDLU"
+      },
+      {
+        "Youtuber_name": "Programming with Mosh",
+        "Subcribers": "1.86M+",
+        "Views": "3,711K+",
+        "Link": " https://www.youtube.com/watch?v=Ke90Tje7VS0"
+      },
+      {
+        "Youtuber_name": "FreeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "954K+",
+        "Link": " https://www.youtube.com/watch?v=4UZrsTqkcW4"
+      },
+      {
+        "Youtuber_name": "Code Step By Step",
+        "Subcribers": "69.7K+",
+        "Views": "87K+",
+        "Link": "https://www.youtube.com/watch?v=GiyL4KFRNBA"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/react/"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/reactjs-tutorial"
+      },
+      {
+        "Website_name": "Tutorialspoint",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/reactjs/index.htm"
+      },
+      {
+        "Website_name": "Reactjs",
+        "Users": "6.02M+",
+        "Link": "https://reactjs.org/tutorial/tutorial.html"
+      },
+      {
+        "Website_name": "Guru99",
+        "Users": "13.75M+",
+        "Link": "https://www.guru99.com/reactjs-tutorial.html"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Modern Full-Stack Development Using TypeScript, React, Node.js,",
+        "Author": "Frank Zammetti",
+        "Link": "https://drive.google.com/file/d/1tOwZVr_KG380O6hPt1K0_Rd3BVFc6Jig/view?usp=sharing"
+      },
+      {
+        "Book_name": "React.js Book Learning React JavaScript Library From Scratch",
+        "Author": "Greg Sidelnikov",
+        "Link": "https://drive.google.com/file/d/1UCXc3_tCQ0GBBOR9QfHfwgAGwcY22BZJ/view?usp=sharing"
+      },
+      {
+        "Book_name": "The Road to learn React Your journey to master plain yet pragmatic React.js",
+        "Author": "Robin Wieruch",
+        "Link": "https://drive.google.com/file/d/1rF1ruIbMbteBUnnLJb0nWapCjjcdrstA/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "Course": "Angular js",
+    "Avg": "Avg.Time: 6 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1xg9orLtFrnMneKb_TJAZdfNwhpAO2xMc",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1t3JySCH-IYrinw0Mw8FllJ-fcr0rQZYM",
+    "Details": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Codevolution",
+        "Subcribers": "291K+",
+        "Views": "10,159K+",
+        "Link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ"
+      },
+      {
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "209K+",
+        "Link": "https://www.youtube.com/watch?v=0LhBvp8qpro"
+      },
+      {
+        "Youtuber_name": "Codedamn",
+        "Subcribers": "157K+",
+        "Views": "1,865K+",
+        "Link": "https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt"
+      },
+      {
+        "Youtuber_name": "Programming with Mosh",
+        "Subcribers": "1.86M+",
+        "Views": "2,553K+",
+        "Link": "https://www.youtube.com/watch?v=k5E2AVpwsko"
+      },
+      {
+        "Youtuber_name": "The Net Ninja",
+        "Subcribers": "746K+",
+        "Views": "541K+",
+        "Link": " https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "AngularJs",
+        "Users": "345.32K+",
+        "Link": "https://docs.angularjs.org/tutorial"
+      },
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/angular/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/angularjs/index.htm"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-angularjs"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/angularjs-tutorial"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "AngularJS Novice to Ninja",
+        "Author": "Sandeep Panda",
+        "Link": "https://drive.google.com/file/d/1fNv1KRK30o_7t_zrtBnHdznZUg_uzyA5/view?usp=sharing"
+      },
+      {
+        "Book_name": "Learning Single-page Web Application Development Build powerful and scalable single-page web applications using a full stack JavaScript",
+        "Author": "Fernando Monteiro",
+        "Link": "https://drive.google.com/file/d/19AZ7nlZ7wQRhjk9Lnm7PUw88v0askn06/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "Course": "GO (Golang)",
+    "Avg": "Avg.Time: 3 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1_izx653Fi04ltsvx3nkYBnlpBS5KK1Dn",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1EZ3AH-PrHNhPEchMJE23PRx6YD7RtLH7",
+    "Details": "Golang is very useful for writing light-weight microservices. We currently use it for generating APIs that interact with our front-end applications. If you want to build a small functional microservice quickly, then Golang is a great tool to use. It's an easy language for developers to learn quickly.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "freeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "1,116K+",
+        "Link": " https://www.youtube.com/watch?v=YS4e4q9oBaU"
+      },
+      {
+        "Youtuber_name": "Programming Knowledge",
+        "Subcribers": "1.41M+",
+        "Views": "11K+",
+        "Link": " https://www.youtube.com/watch?v=3iuoQkQOx2w&list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij"
+      },
+      {
+        "Youtuber_name": "Traversy Media",
+        "Subcribers": "1.57M+",
+        "Views": "305K+",
+        "Link": " https://www.youtube.com/watch?v=SqrbIlUwR0U"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "95K+",
+        "Link": " https://www.youtube.com/watch?v=Q0sKAMal4WQ"
+      },
+      {
+        "Youtuber_name": "Telusko",
+        "Subcribers": "1.42M+",
+        "Views": "64K+",
+        "Link": " https://www.youtube.com/watch?v=ty49_v1tV44"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Golang",
+        "Users": "2.16M+",
+        "Link": "https://golang.org/"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-go"
+      },
+      {
+        "Website_name": "Gobyexample",
+        "Users": "358.44K+",
+        "Link": "https://gobyexample.com/"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/go/index.htm"
+      },
+      {
+        "Website_name": "Geeks for Geeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Hands-On System Programming with Go Build Modern and Concurrent Applications for Unix and Linux Systems Using Golang",
+        "Author": "Alex Guerrieri",
+        "Link": "https://drive.google.com/file/d/1M2MVLfK_xewpmyi-lrmsfcyCUcNB7JgO/view?usp=sharing"
+      },
+      {
+        "Book_name": "Mastering Go Create Golang production applications using network libraries, concurrency, machine learning, and advanced data structures",
+        "Author": "Mihalis Tsoukalos",
+        "Link": "https://drive.google.com/file/d/1ZvG5l1aOLxdbuEmXP6biiJREwNnFK8vo/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "Course": "Data Structure",
+    "Avg": "Avg.Time: 8 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1f97IzxX6u4LvKzHPTEufGFqXVL7rct-0",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1SL-ocO1DJgNeLl2qQJ2gegNkJR-VNaP2",
+    "Details": "Data structures are used in computing to make it easy to locate and retrieve information. ... Non-primitive data structures provide ways of storing multiple values in a single variable. These include arrays, lists, stacks, trees, and so forth. Data structures can also be used to group and organize other data structures.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "FreeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "3,090K+",
+        "Link": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+      },
+      {
+        "Youtuber_name": "Code With Harry",
+        "Subcribers": "1.6M+",
+        "Views": "907K+",
+        "Link": "https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi"
+      },
+      {
+        "Youtuber_name": "Neso Academy",
+        "Subcribers": "1.2M+",
+        "Views": "267K+",
+        "Link": "https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"
+      },
+      {
+        "Youtuber_name": "WsCube Tech",
+        "Subcribers": "386K+",
+        "Views": "77K+",
+        "Link": "https://www.youtube.com/watch?v=hCrO_cR7kno"
+      },
+      {
+        "Youtuber_name": "NOC16 July-Sep CS11",
+        "Subcribers": "10.3K+",
+        "Views": "630K+",
+        "Link": " https://www.youtube.com/watch?v=9MmC_uGjBsM&list=PLyqSpQzTE6M_Fu6l8irVwXkUyC9Gwqr6_"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Programiz",
+        "Users": "9.67M+",
+        "Link": "https://www.programiz.com/dsa"
+      },
+      {
+        "Website_name": "Geeks for Geeks",
+        "Users": "50.80M+",
+        "Link": "https://www.geeksforgeeks.org/data-structures/"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/data-structure-tutorial"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/data_structures_algorithms/index.htm"
+      },
+      {
+        "Website_name": "Jovian",
+        "Users": "471.63K+",
+        "Link": "https://jovian.ai/learn/data-structures-and-algorithms-in-python"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Data Structures and Algorithms Made Easy Data Structures and Algorithmic Puzzles",
+        "Author": "Narasimha Karumanchi",
+        "Link": "https://drive.google.com/file/d/1mW1ClIcL6bF3P6961yICFh__l9V_wS4V/view?usp=sharing"
+      },
+      {
+        "Book_name": "Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People",
+        "Author": "Aditya Bhargava",
+        "Link": "https://drive.google.com/file/d/1AEv7JLf0JqyggugOeADE-OcJLKzCGfJw/view?usp=sharing"
+      },
+      {
+        "Book_name": "Introduction to algorithms",
+        "Author": "Thomas H. Cormen, Charles E. Leiserson",
+        "Link": "https://drive.google.com/file/d/1e41fW3YntNfL1Pti9kWnoNxRKFcxKmuA/view?usp=sharing"
+      } 
+    ]
+  },
+  {
+    "id": 16,
+    "Course": "JQuery",
+    "Avg": "Avg.Time: 6 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=17z-hb02qpI8_6mt0Jd-rBsD3ZwwQtlVv",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1bW2PBxP9FJ4MEjIOow4Xca_4Ow6LnW04",
+    "Details": "jQuery is a lightweight, 'write less, do more', JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Code with Harry",
+        "Subcribers": "1.6M+",
+        "Views": "114K+",
+        "Link": "https://www.youtube.com/watch?v=YFlx1C8XwR0"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "167K+",
+        "Link": "https://www.youtube.com/watch?v=HgvIox6ehkM"
+      },
+      {
+        "Youtuber_name": "Yahoo Baba",
+        "Subcribers": "117K+",
+        "Views": "154K+",
+        "Link": "https://www.youtube.com/watch?v=QvaFeU0LWnc&list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW"
+      },
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "77K+",
+        "Link": " https://www.youtube.com/watch?v=NqFtCDw7cWo&list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI"
+      },
+      {
+        "Youtuber_name": "Codin Gyaan",
+        "Subcribers": "5.38K+",
+        "Views": "6K+",
+        "Link": " https://www.youtube.com/watch?v=7M3L4JSSPSA"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "jquery",
+        "Users": "325.92K+",
+        "Link": "https://learn.jquery.com/"
+      },
+      {
+        "Website_name": "W3schools",
+        "Users": "69.13M+",
+        "Link": "https://www.w3schools.com/jquery/default.asp"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-jquery"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/jquery-tutorial"
+      },
+      {
+        "Website_name": "Css-tricks",
+        "Users": "8M+",
+        "Link": "https://css-tricks.com/lodge/learn-jquery/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "A Smarter Way to Learn jQuery Learn it faster. Remember it longer.",
+        "Author": "Mark Myers",
+        "Link": "https://drive.google.com/file/d/1ykchw9dRhV-5mlztrXpFg57SzL4N2t-C/view?usp=sharing"
+      },
+      {
+        "Book_name": "Head First jQuery",
+        "Author": "Ryan Benedetti, Ronan Cranley",
+        "Link": "https://drive.google.com/file/d/1sPw0Snjoxf_xc6Saw210btNvk5YVwUlO/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "Course": "Ruby",
+    "Avg": "Avg.Time: 5 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1nem6njCWdCnGEVy_kH8DtIX8Rn_63d8S",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1UHg3dxfuPE07Km9ihlUtVWfg1CdKnf7o",
+    "Details": "Ruby is most used for building web applications. However, it is a general-purpose language similar to Python, so it has many other applications like data analysis, prototyping, and proof of concepts. Probably the most obvious implementation of Ruby is Rails web, the development framework built with Ruby.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "FreeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "594K+",
+        "Link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
+      },
+      {
+        "Youtuber_name": "Mike Dane",
+        "Subcribers": "193K+",
+        "Views": "20K+",
+        "Link": "https://www.youtube.com/watch?v=CIe1DxrSrhs&list=PLLAZ4kZ9dFpO90iMas70Tt4_wYjhLGkya"
+      },
+      {
+        "Youtuber_name": "Traversy Media",
+        "Subcribers": "1.57M+",
+        "Views": "82K+",
+        "Link": "https://www.youtube.com/watch?v=B3Fbujmgo60"
+      },
+      {
+        "Youtuber_name": "Jake Day Williams",
+        "Subcribers": "83.4K+",
+        "Views": "397K+",
+        "Link": " https://www.youtube.com/watch?v=8I539U5lXWY&list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp"
+      },
+      {
+        "Youtuber_name": "Smartherd",
+        "Subcribers": "105K+",
+        "Views": "89K+",
+        "Link": " https://www.youtube.com/watch?v=SHzeVBrW_rA&list=PLlxmoA0rQ-Lx45j3D6da7-Iqvo5wtjKBm"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-ruby"
+      },
+      {
+        "Website_name": "Ruby-lang.org",
+        "Users": "337.52K+",
+        "Link": "https://www.ruby-lang.org/en/documentation/quickstart/"
+      },
+      {
+        "Website_name": "Javatpoint",
+        "Users": "15.64M+",
+        "Link": "https://www.javatpoint.com/ruby-tutorialhttps://www.javatpoint.com/ruby-tutorial"
+      },
+      {
+        "Website_name": "Careerkarma",
+        "Users": "2.68M+",
+        "Link": "https://careerkarma.com/blog/how-to-learn-ruby/"
+      },
+      {
+        "Website_name": "Freecodecamp",
+        "Users": "15.84M+",
+        "Link": "https://www.freecodecamp.org/news/learning-ruby-from-zero-to-hero-90ad4eecc82d/"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Beginning Ruby From Novice to Professional",
+        "Author": "Peter Cooper",
+        "Link": "https://drive.google.com/file/d/1dXBf7JpOVAzXMOmGq7xTYhJk0rykYwLc/view?usp=sharing"
+      },
+      {
+        "Book_name": "Head First Ruby",
+        "Author": "Jay McGavren",
+        "Link": "https://drive.google.com/file/d/1C5oqYjiU2s63492Z2PDG33smhaDIVOct/view?usp=sharing"
+      },
+      {
+        "Book_name": "Ruby Programming for Beginners An Introduction to Learning Ruby Programming with Tutorials and Hands-On Examples",
+        "Author": "Metzler, Nathan",
+        "Link": "https://drive.google.com/file/d/1rdDoMwlevvZYzcXftAAS3blhg7kq8EyU/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "Course": "Swift",
+    "Avg": "Avg.Time: 4 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1kI-Hho5MUcs8luPSavHENQxfrsTJquZb",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1Te7wbLNRJ5vm6kFDl5jGHpA6T_Hbxa0l",
+    "Details": "Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. The goal of the Swift project is to create the best available language for uses ranging from systems programming, to mobile and desktop apps, scaling up to cloud services. Most importantly, Swift is designed to make writing and maintaining correct programs easier for the developer.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Code With Chris",
+        "Subcribers": "449K+",
+        "Views": "4,418K+",
+        "Link": "https://www.youtube.com/watch?v=Ulp1Kimblg0"
+      },
+      {
+        "Youtuber_name": "freeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "388K+",
+        "Link": "https://www.youtube.com/watch?v=comQ1-x2a1Q"
+      },
+      {
+        "Youtuber_name": "Devslopes",
+        "Subcribers": "126K+",
+        "Views": "63K+",
+        "Link": "https://www.youtube.com/watch?v=mhE-Mp07RTo"
+      },
+      {
+        "Youtuber_name": "Code With Chris",
+        "Subcribers": "449K+",
+        "Views": "177K+",
+        "Link": " https://www.youtube.com/watch?v=FcsY1YPBwzQ"
+      },
+      {
+        "Youtuber_name": "Edureka!",
+        "Subcribers": "2.76M+",
+        "Views": "22K+",
+        "Link": " https://www.youtube.com/watch?v=ot1AKV9kfAo"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Developer.apple",
+        "Users": "11.35M+",
+        "Link": "https://developer.apple.com/swift/"
+      },
+      {
+        "Website_name": "Codecademy",
+        "Users": "7.21M+",
+        "Link": "https://www.codecademy.com/learn/learn-swift"
+      },
+      {
+        "Website_name": "Tutorials Point",
+        "Users": "27.29M+",
+        "Link": "https://www.tutorialspoint.com/swift/index.htm"
+      },
+      {
+        "Website_name": "Docs.swift",
+        "Users": "317.73K+",
+        "Link": "https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html"
+      },
+      {
+        "Website_name": "Udacity",
+        "Users": "5.66M+",
+        "Link": "https://www.udacity.com/course/swift-for-beginners--ud1022"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Swift2 for Absolute Beginners",
+        "Author": "Gary Bennett, Brad Lees",
+        "Link": "https://drive.google.com/file/d/1HYAesjNYWJM1NmyfM8smyeTO6T7LrutO/view?usp=sharing"
+      },
+      {
+        "Book_name": "Swift 5 for Absolute Beginners",
+        "Author": "Stefan Kaczmarek, Brad Lees, Gary Bennett",
+        "Link": "https://drive.google.com/file/d/1gvZWz1S9HGjVqdDmHIW2I1h-KGSFpLkA/view?usp=sharing"
+      },
+      {
+        "Book_name": "Swift for Beginners",
+        "Author": "Boisy G. Pitre",
+        "Link": "https://drive.google.com/file/d/1fWeJURyNp4QbdxOFNNq4OJvZPWK0quef/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "Course": "Flutter and Dart",
+    "Avg": "Avg.Time: 3 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1NiKEg2NFawCXkX7Zo_UOsNRwdZpHNd52",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1-gfhUCC3KXqgugeZxfW7EryKg893owil",
+    "Details": "There are things that are of great value to the business — platform stability, its performance, a guarantee of successful support, and improvement of technologies and products. Any problems and shortcomings in any of these aspects may lead to risks, including direct and indirect financial losses.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Mtechviral",
+        "Subcribers": "92.8K+",
+        "Views": "236K+",
+        "Link": " https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV"
+      },
+      {
+        "Youtuber_name": "Smartherd",
+        "Subcribers": "105K+",
+        "Views": "88K+",
+        "Link": " https://www.youtube.com/watch?v=ycHX8QtV08c&list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB&index=5"
+      },
+      {
+        "Youtuber_name": "Free Online Courses Official",
+        "Subcribers": "1.01K+",
+        "Views": "15K+",
+        "Link": " https://www.youtube.com/watch?v=WPpoRkoeQVY&list=PLziVQlsc4EpCin9YcyI43QV0Jk8EQVraA"
+      },
+      {
+        "Youtuber_name": "Hitesh Choudhary",
+        "Subcribers": "645K+",
+        "Views": "43K+",
+        "Link": " https://www.youtube.com/watch?v=BDwCQc2uEfw&list=PLRAV69dS1uWT-ooTYHCqgxMTGA233JMrP"
+      },
+      {
+        "Youtuber_name": "Tensor Programming",
+        "Subcribers": "41.2K+",
+        "Views": "68K+",
+        "Link": " https://www.youtube.com/watch?v=b2fgMCeSNpY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Medium",
+        "Users": "155.76M+",
+        "Link": "https://medium.com/flutter-community/how-to-learn-flutter-886c0bad8a46"
+      },
+      {
+        "Website_name": "Freecodecamp",
+        "Users": "15.84M+",
+        "Link": "https://www.freecodecamp.org/news/how-to-learn-flutter-in-2020/"
+      },
+      {
+        "Website_name": "Pro.academind",
+        "Users": "146.64K+",
+        "Link": "https://pro.academind.com/p/learn-flutter-dart-to-build-ios-android-apps-2020"
+      },
+      {
+        "Website_name": "Flutter",
+        "Users": "5M+",
+        "Link": "https://flutter.dev/docs/reference/tutorials"
+      },
+      {
+        "Website_name": "Solutelabs",
+        "Users": "88.35K+",
+        "Link": "https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide"
+      }
+    ],
+
+    "Books": [
+      {
+        "Book_name": "Beginning Flutter  a hands on guide to app development",
+        "Author": "Napoli, Marco L",
+        "Link": "https://drive.google.com/file/d/1IYag0HShp8ZjzOQG_ml3sIrYs2RfMyMh/view?usp=sharing"
+      },
+      {
+        "Book_name": "Flutter Complete Reference Create Beautiful, Fast and Native Apps for Any Device",
+        "Author": "Alberto Miola",
+        "Link": "https://drive.google.com/file/d/1JL2dU35_K_d2xIw7UD3y2NNynByL7InV/view?usp=sharing"
+      },
+      {
+        "Book_name": "Flutter for Beginners",
+        "Author": "Alessandro Biessek",
+        "Link": "https://drive.google.com/file/d/1cVNczuivYAgKnSA6ILSodJXCjyOZRWus/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "Course": "Figma UI UX Design",
+    "Avg": "Avg.Time: 1 Weeks",
+    "imglink": "https://drive.google.com/uc?export=download&id=1SkACCWw99yeB8Fzw8HK04gy010zXZN_M",
+    "Coursebanner": "https://drive.google.com/uc?export=download&id=1Xu9kjT37otuqrEKWcIUqkFstKTWo9r21",
+    "Details": "Figma is a web-based design tool with real-time collaboration It’s like Craft Freehand but with all the features of Sketch (and more). It works in web browsers, and there are also native apps that let you work offline.",
+    "Youtuber": [
+      {
+        "Youtuber_name": "Thapa Technical",
+        "Subcribers": "331K+",
+        "Views": "17K+",
+        "Link": " https://www.youtube.com/watch?v=xJNGMbmt19A&list=PLwGdqUZWnOp2KUxgTLb1Wy2uhVmYM3bwT"
+      },
+      {
+        "Youtuber_name": "Butter Academy",
+        "Subcribers": "2.82K+",
+        "Views": "150K+",
+        "Link": " https://www.youtube.com/watch?v=6t_dYhXyYjI"
+      },
+      {
+        "Youtuber_name": "Design Course",
+        "Subcribers": "810K+",
+        "Views": "1,072K+",
+        "Link": " https://www.youtube.com/watch?v=3q3FV65ZrUs"
+      },
+      {
+        "Youtuber_name": "Figma",
+        "Subcribers": "152K+",
+        "Views": "65K+",
+        "Link": " https://www.youtube.com/watch?v=gnscqweM_NU&list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23"
+      },
+      {
+        "Youtuber_name": "FreeCodeCamp",
+        "Subcribers": "3.85M+",
+        "Views": "238K+",
+        "Link": " https://www.youtube.com/watch?v=c9Wg6Cb_YlU&t=3816s"
+      },
+      {
+        "Youtuber_name": "CodinGyaan",
+        "Subcribers": "5.38K+",
+        "Views": "23K+",
+        "Link": "https://www.youtube.com/watch?v=aOkVQz0HPaQ"
+      }
+    ],
+
+    "Websites": [
+      {
+        "Website_name": "Figma",
+        "Users": "36.53M+",
+        "Link": "https://www.figma.com/resources/learn-design/"
+      },
+      {
+        "Website_name": "Skillshare",
+        "Users": "9.07M+",
+        "Link": "https://www.skillshare.com/classes/Learn-Figma-User-Interface-Design-Essentials-UIUX-Design/975237270"
+      },
+      {
+        "Website_name": "Learnux.io",
+        "Users": "137.64K+",
+        "Link": "https://learnux.io/course/figma"
+      },
+      {
+        "Website_name": "Freecodecamp",
+        "Users": "15.84M+",
+        "Link": "https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma/"
+      },
+      {
+        "Website_name": "Marcandrew",
+        "Users": "317.73K+",
+        "Link": "https://marcandrew.me/the-ultimate-figma-resource-archive-2020/"
+      }
+    ],
+
+    "Books": [
+      
+    ]
+  }
+]
