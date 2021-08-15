@@ -139,29 +139,9 @@
         "sub_name": "Communication Skills",
         "units": [
           {
-            "unit_id": "Unit1",
-            "name": "Communication",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Grammar",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Composition",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Short Stories",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Poems",
-            "link": "linker.com"
+            "unit_id": "Complete Notes",
+            "name": "All Units Notes",
+            "link": "https://drive.google.com/file/d/1cqoKuRP-fg0wa_iKY4DJKADmF7_8b668/preview"
           }
         ]
       }
