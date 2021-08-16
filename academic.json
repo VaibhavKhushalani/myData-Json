@@ -530,7 +530,7 @@
         ]
       },
       {
-        "sub_name": " Database Management System",
+        "sub_name": "DBMS",
         "units": [
           {
             "unit_id": "Complete Notes",
@@ -550,7 +550,7 @@
         ]
       },
       {
-        "sub_name": "Theory Of Computation",
+        "sub_name": "TOC",
         "units": [
           {
             "unit_id": "Unit 1",
@@ -752,151 +752,204 @@
     "description": "VIth semester",
     "subjects": [
       {
-        "sub_name": "Engineering Mathematics-II",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Matrices",
-            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "First order ordinary differential equations",
-            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Ordinary differential equations of higher orders",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Partial Differential Equations – First order",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Partial Differential Equations– Higher order",
-            "link": "linker.com"
-          }
-        ]
-      },
-
-      {
-        "sub_name": "Engineering Physics",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Wave Optics",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Quantum Mechanics",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Coherence & Optical Fibers",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Laser",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Material Science & Semiconductor Physics",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit6",
-            "name": "Introduction to Electromagnetism",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "Programming for Problem Solving",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Fundamentals of Computer",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Number system",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "C Programming",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "Basic Civil Engineering",
+        "sub_name": "Artificial Intelligence",
         "units": [
           {
             "unit_id": "Unit1",
             "name": "Introduction",
-            "link": "link.com"
+            "link": "https://drive.google.com/file/d/1FPkUQpi6sD9DU8JtpQswgKxEqUpo1lTN/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "Surveying",
-            "link": "linker.com"
+            "name": "Game Playing",
+            "link": "https://drive.google.com/file/d/1xWQUdPb-1fZGrWgpCIb2whiQww2rur4X/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Buildings",
-            "link": "linker.com"
+            "name": "Knowledge and Reasoning",
+            "link": "https://drive.google.com/file/d/1PsqPfWI8d4xWMOiZLNaUStRAVDHCEgWo/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Transportation",
-            "link": "linker.com"
+            "name": "Learning",
+            "link": "https://drive.google.com/file/d/17YMTKsXKgi7ueWj_jhiEGfBkkQgsquA7/preview"
           },
           {
             "unit_id": "Unit5",
-            "name": "Environmental Engineering",
-            "link": "linker.com"
+            "name": "Natural Language Processing",
+            "link": "https://drive.google.com/file/d/1gLA4tppdIsjsprG5Xw-cYbXRT2UmxTuj/preview"
+          }
+          
+        ]
+      },
+
+      {
+        "sub_name": "Cloud Computing",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Wave Optics",
+            "link": "https://drive.google.com/file/d/1sjrpLA_RWP3-SL6ZJNknx2XFjLU85Ic6/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Cloud Computing Architecture",
+            "link": "https://drive.google.com/file/d/1wMXnyzKIxPZnmCGFCbw4IPQUcs_SiR2Q/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Virtualization Technology",
+            "link": "https://drive.google.com/file/d/1PgPv5lNNgxnaRVsTvctiJLxKMQFz2eXa/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Securing the Cloud",
+            "link": "https://drive.google.com/file/d/1txibdcrXP1TbOQj-1336I6QgM-0wKmY_/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Cloud Platforms in Industry",
+            "link": "https://drive.google.com/file/d/1DmfnTwtIRDTF1Zbid3_T599D_vs1MJfy/preview"
+          }
+         
+        ]
+      },
+      {
+        "sub_name": "Distributed System",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "https://drive.google.com/file/d/1UPj12gZO1TyHlUyYosujNse6ekbBdhAO/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Concurrent Processes and Programming",
+            "link": "https://drive.google.com/file/d/1QHllrHgh-_Gb-JLgZrg83u3RUt1Ehq-2/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Distributed Process Scheduling",
+            "link": "https://drive.google.com/file/d/15Y9AZk_k_AinJ4iTv9FkifW3sApMH-nD/preview"
           }
         ]
       },
       {
-        "sub_name": "Human Values",
+        "sub_name": "Computer Architecture and Organization",
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Course Introduction",
-            "link": "link.com"
+            "name": "Computer Data Representation",
+            "link": "https://drive.google.com/file/d/166DDXhkX1JRKh3j7_t4nylGZgsEceyyP/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "Understanding Harmony in the Human Being",
-            "link": "linker.com"
+            "name": "Programming The Basic Computer",
+            "link": "https://drive.google.com/file/d/1sy-upyGEyemO7uRibNdAK7upzoteAlMD/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Understanding Harmony in the Family and Society",
-            "link": "linker.com"
+            "name": "Central Processing Unit",
+            "link": "https://drive.google.com/file/d/1ot3gS-myQzxGupr1DewpYZLV45h89Hrc/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Understanding Harmony in the Nature and Existence",
-            "link": "linker.com"
+            "name": "Computer Arithmetic",
+            "link": "https://drive.google.com/file/d/16W_mI7L_-qnjkTtJKpogzWI7Hdolfi8q/preview"
           },
           {
             "unit_id": "Unit5",
-            "name": "Understanding of Harmony on Professional Ethics",
-            "link": "linker.com"
+            "name": "Memory Organization",
+            "link": "https://drive.google.com/file/d/1BVTtE7SBr589LZXNvRNUNR3z4fv6IRkT/view"
+          }
+        ]
+      },
+      {
+        "sub_name": "Digital Image Processing",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction",
+            "link": "https://drive.google.com/file/d/1o1CRYGEZhOwapyyUkABiiLShYKYeKB1u/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Image Transformation & Filtering",
+            "link": "https://drive.google.com/file/d/1IdXo5IjSBWzw1uj3bSiSz5lq-nyMI3t2/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Image Restoration",
+            "link": "https://drive.google.com/file/d/1ve7_kQ0S4P1NnyxnbHyWyOavj39ums0W/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Image Compression",
+            "link": "https://drive.google.com/file/d/1N0vJQaT5gJWk2EHLR0__vZ8AvYeZQAcd/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Image Segmentation & Representation",
+            "link": "https://drive.google.com/file/d/18qgRv_laXmF7hC2OUPC_3y1uyqd56e9d/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "Information Security System",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Introduction to security attacks",
+            "link": "https://drive.google.com/file/d/1ecNzDU_GvPkdhbbt9bKbIxMwrbj2RKZa/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Modern block ciphers",
+            "link": "https://drive.google.com/file/d/1c4bn6I2oQJama2fYlJmPqLM3RT6pS2dR/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Public Key Cryptosystems with Applications",
+            "link": "https://drive.google.com/file/d/1u-iDn3FmCgOwKZrnfTfinuoPjQMnLArb/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Cryptographic Hash Functions, their applications",
+            "link": "https://drive.google.com/file/d/1SBkKjDbBk-3sC33OhhSEB6N2WIQ1g1QI/preview"
+          }
+        ]
+      },
+      {
+        "sub_name": "Machine Learning",
+        "units": [
+          {
+            "unit_id": "Unit1",
+            "name": "Supervised learning algorithm",
+            "link": "https://drive.google.com/file/d/1KKu5HjAUOlZFhezgmBUudQrcTplrPdoe/preview"
+          },
+          {
+            "unit_id": "Unit2",
+            "name": "Unsupervised learning algorithm",
+            "link": "https://drive.google.com/file/d/1N3PJgHzdnilnrCOo3xRwJgIqFbmjDTvm/preview"
+          },
+          {
+            "unit_id": "Unit3",
+            "name": "Introduction to Statistical Learning Theory",
+            "link": "https://drive.google.com/file/d/1qDvow_AlUDxPVRbUVsT01HU4CLfsQDMm/preview"
+          },
+          {
+            "unit_id": "Unit4",
+            "name": "Semi supervised learning",
+            "link": "https://drive.google.com/file/d/1zNBaoLQD_rCw1UHT-T4N1nwe8KGc3zap/preview"
+          },
+          {
+            "unit_id": "Unit5",
+            "name": "Recommended system",
+            "link": "https://drive.google.com/file/d/15h4OB1U8G6736HN-tuMqQP0pkXMrzQNk/preview"
           }
         ]
       }
+
     ]
   },
   {
