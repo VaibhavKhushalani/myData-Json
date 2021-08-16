@@ -958,151 +958,39 @@
     "description": "VIIth semester",
     "subjects": [
       {
-        "sub_name": "Engineering Mathematics-II",
+        "sub_name": "Internet Of Things",
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Matrices",
-            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+            "name": "Introduction Cloud Computing",
+            "link": "https://drive.google.com/file/d/1s7pr7JO8oUMC4x4xWwb8G3JeAKjVuVYk/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "First order ordinary differential equations",
-            "link": "https://drive.google.com/file/d/1mUVFwkex2gc3HLTU-ej3qrZ9OrgDH884/preview"
+            "name": "IOT Hardware & Software",
+            "link": "https://drive.google.com/file/d/1A9rMCGx2GgQGMurPVr2oeLHUeenGEJBM/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Ordinary differential equations of higher orders",
-            "link": "linker.com"
+            "name": "Architecture and Reference Model",
+            "link": "https://drive.google.com/file/d/1ojgZeXNth_hTp7JGoS498Ly2-Lus9XAM/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Partial Differential Equations – First order",
-            "link": "linker.com"
+            "name": "IOT and M2M",
+            "link": "https://drive.google.com/file/d/11IsIfQVWO0N6Lcx820147Jj7IrcWKweM/view"
           },
           {
             "unit_id": "Unit5",
-            "name": "Partial Differential Equations– Higher order",
-            "link": "linker.com"
-          }
-        ]
-      },
-
-      {
-        "sub_name": "Engineering Physics",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Wave Optics",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Quantum Mechanics",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Coherence and Optical Fibers",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Laser",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Material Science & Semiconductor Physics",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit6",
-            "name": "Introduction to Electromagnetism",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "Programming for Problem Solving",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Fundamentals of Computer",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Number system",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "C Programming",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "Basic Civil Engineering",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Introduction",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Surveying",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Buildings",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Transportation",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Environmental Engineering",
-            "link": "linker.com"
-          }
-        ]
-      },
-      {
-        "sub_name": "Human Values",
-        "units": [
-          {
-            "unit_id": "Unit1",
-            "name": "Course Introduction",
-            "link": "link.com"
-          },
-          {
-            "unit_id": "Unit2",
-            "name": "Understanding Harmony in the Human Being",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit3",
-            "name": "Understanding Harmony in the Family and Society",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit4",
-            "name": "Understanding Harmony in the Nature and Existence",
-            "link": "linker.com"
-          },
-          {
-            "unit_id": "Unit5",
-            "name": "Understanding of Harmony on Professional Ethics",
-            "link": "linker.com"
+            "name": "IOT Applications",
+            "link": "https://drive.google.com/file/d/170BVQSgRDTuk4Iku_UNk30CKChBtcz8H/preview"
           }
         ]
       }
+
+     
+     
+     
     ]
   },
   {
