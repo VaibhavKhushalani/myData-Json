@@ -1,3 +1,4 @@
+
 [
   {
     "id": 0,
@@ -24,12 +25,12 @@
           },
           {
             "unit_id": "Unit4",
-            "name": "Multivariable Calculus (Differentiation)",
+            "name": "Calculus (Diff.)",
             "link": "https://drive.google.com/file/d/1LA1A9oDMKnIeVm4BNyTbx2eKDwTfWRnJ/preview"
           },
           {
             "unit_id": "Unit5",
-            "name": "Multivariable Calculus (Integration)",
+            "name": "Calculus (Integration)",
             "link": "https://drive.google.com/file/d/1h9Vh6yu8hlCH0VszeeQ5YTZ7VsJil8bG/preview"
           }
         ]
@@ -60,13 +61,13 @@
           },
           {
             "unit_id": "Unit5",
-            "name": "Organic reaction mechanism",
+            "name": "Organic reaction",
             "link": "https://drive.google.com/file/d/1vtx7tbLgPykMoCytHIcJPzoIA4F3-82v/preview"
           }
         ]
       },
       {
-        "sub_name": "Basic Mechanical Engg",
+        "sub_name": "Mechanical Engg",
         "units": [
           {
             "unit_id": "Unit1",
@@ -90,7 +91,7 @@
           },
           {
             "unit_id": "Unit5",
-            "name": "Primary Manufacturing Processes",
+            "name": "Manufacturing Processes",
             "link": "https://drive.google.com/file/d/1YrGqTKSXqmwrQI4e-ii7Uw1RaLmeut8X/preview"
           },
           {
@@ -101,7 +102,7 @@
         ]
       },
       {
-        "sub_name": "Basic Electrical Engg",
+        "sub_name": "Electrical Engg",
         "units": [
           {
             "unit_id": "Unit1",
@@ -136,7 +137,7 @@
         ]
       },
       {
-        "sub_name": "Communication Skills",
+        "sub_name": "Comm.Skills",
         "units": [
           {
             "unit_id": "Complete Notes",
@@ -162,17 +163,17 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "First order ordinary differential equations",
+            "name": "First order DE",
             "link": "https://drive.google.com/file/d/1cYhgGTFzsbSfsdAZUhDLduo2FoX6iQ50/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Ordinary differential equations of higher orders",
+            "name": "Ordinary DE Higher orders",
             "link": "https://drive.google.com/file/d/1vZKYMUrpk1icvJ89d8qYDn1AXRYVVbn9/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Partial Differential Equations",
+            "name": "Partial DE",
             "link": "https://drive.google.com/file/d/1Qv1S8_DkgCKmBtqrDq5288zPJDTeUtQ9/preview"
           }
         ]
@@ -203,12 +204,12 @@
           },
           {
             "unit_id": "Unit5",
-            "name": "Material Science & Semiconductor Physics",
+            "name": "Material Science",
             "link": "https://drive.google.com/file/d/1WCH0og-HTn4TIWTcxnyM0xskcjN30Nb7/preview"
           },
           {
             "unit_id": "Unit6",
-            "name": "Introduction to Electromagnetism",
+            "name": "Introduction to EM",
             "link": "https://drive.google.com/file/d/1gQn9roYInDkLAxFZA44jZo-MVSMPLn5i/preview"
           }
         ]
@@ -218,13 +219,13 @@
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Fundamentals of Computer",
+            "name": "Fundamentals of C",
             "link": "https://drive.google.com/file/d/16lgCoigAQ1Is5zRO9q8MT7o3E-HSFGxG/preview"
           }
         ]
       },
       {
-        "sub_name": "Basic Civil Engg",
+        "sub_name": "Civil Engg",
         "units": [
           {
             "unit_id": "Unit1",
@@ -243,12 +244,12 @@
           },
           {
             "unit_id": "Unit4",
-            "name": "Transportation",
+            "name": "Transport",
             "link": "https://drive.google.com/file/d/1--ghpmV7LfG29mGaO2StdDTPBvozgJ2l/preview"
           },
           {
             "unit_id": "Unit5",
-            "name": "Environmental Engineering",
+            "name": "Environmental Engg",
             "link": "https://drive.google.com/file/d/1DdvRdwKBg9O_AWeUd687-dR55boAwgdl/preview"
           }
         ]
@@ -258,22 +259,22 @@
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Course Introduction",
+            "name": "Introduction",
             "link": "https://drive.google.com/file/d/1vfhApU5H73s3B1NxjU7fC0wePhKjxceE/preview"
           },
           {
             "unit_id": "Unit2",
-            "name": "Harmony in the Human Being",
+            "name": "Harmony in Human Being",
             "link": "https://drive.google.com/file/d/1o5JLx0yLPpd02Fe_9ytHHFH4TCp2rN8Q/preview"
           },
           {
             "unit_id": "Unit3",
-            "name": "Harmony in the Family & Society",
+            "name": "Harmony in Family & Society",
             "link": "https://drive.google.com/file/d/1rSPxDSOfS98L8jQ0O3IqqJlr3jxIqDNJ/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Harmony in the Nature and Existence",
+            "name": "Harmony in Nature & Existence",
             "link": "https://drive.google.com/file/d/1-vEDVeP9Dw40Rr3RaHXbpoxaOAWYVk48/preview"
           },
           {
@@ -296,7 +297,7 @@
     "description": "IIIrd semester",
     "subjects": [
       {
-        "sub_name": "Advanced Engg Mathematics",
+        "sub_name": "Advanced Engg Math",
         "units": [
           {
             "unit_id": "Unit1",
@@ -376,7 +377,7 @@
           },
           {
             "unit_id": "Unit4",
-            "name": "Combinational Circuits",
+            "name": "Combination Circuits",
             "link": "https://drive.google.com/file/d/1Ixu2jmeTZPGFLAW2AnHfJDX1pmz3bRKo/preview"
           },
           {
@@ -391,7 +392,7 @@
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Basic economic concepts",
+            "name": "Economic concepts",
             "link": "https://drive.google.com/file/d/1Z6wiHR9_sw9_ts3deUS6U6mJfrogsbI7/preview"
           },
           {
@@ -417,7 +418,7 @@
         ]
       },
       {
-        "sub_name": "OOPs",
+        "sub_name": "OOPS",
         "units": [
           {
             "unit_id": "Unit1",
@@ -436,7 +437,7 @@
           },
           {
             "unit_id": "Unit4",
-            "name": "polymorphism",
+            "name": "Polymorphism",
             "link": "https://drive.google.com/file/d/1TNczoedIyOMZogTEW6q1zlZ2o9uda9Y3/preview"
           },
           {
@@ -446,7 +447,7 @@
           },
           {
             "unit_id": "All Units",
-            "name": "Complete unit",
+            "name": "Complete Units",
             "link": "https://drive.google.com/file/d/1TU3IpGfqMdrcYcih88Q9myaFk1CJmHCT/preview"
           }
         ]
@@ -489,7 +490,7 @@
     "description": "IVth semester",
     "subjects": [
       {
-        "sub_name": "Discrete Mathematics Structure",
+        "sub_name": "DMS",
         "units": [
           {
             "unit_id": "Set Theory",
@@ -515,7 +516,7 @@
       },
 
       {
-        "sub_name": "Microprocessor & Interfaces",
+        "sub_name": "MP",
         "units": [
           {
             "unit_id": "Unit1",
@@ -580,7 +581,7 @@
         ]
       },
       {
-        "sub_name": "Technical Communication",
+        "sub_name": "Technical Comm",
         "units": [
           {
             "unit_id": "Complete Notes",
@@ -608,7 +609,7 @@
       },
 
       {
-        "sub_name": "Computer Graphics & Multimedia",
+        "sub_name": "Computer Graphics",
         "units": [
           {
             "unit_id": "Complete Notes",
@@ -628,7 +629,7 @@
         ]
       },
       {
-        "sub_name": "Wireless Communication",
+        "sub_name": "Wireless Comm",
         "units": [
           {
             "unit_id": "Complete Notes",
@@ -659,7 +660,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Knowledge and Reasoning",
+            "name": "Knowledge & Reasoning",
             "link": "https://drive.google.com/file/d/1PsqPfWI8d4xWMOiZLNaUStRAVDHCEgWo/preview"
           },
           {
@@ -715,7 +716,7 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Concurrent Processes and Programming",
+            "name": "Concurrent Process & Program",
             "link": "https://drive.google.com/file/d/1QHllrHgh-_Gb-JLgZrg83u3RUt1Ehq-2/preview"
           },
           {
@@ -726,11 +727,11 @@
         ]
       },
       {
-        "sub_name": "Computer Architecture and Organization",
+        "sub_name": "Computer Architecture & Organization",
         "units": [
           {
             "unit_id": "Unit1",
-            "name": "Computer Data Representation",
+            "name": "CDR",
             "link": "https://drive.google.com/file/d/166DDXhkX1JRKh3j7_t4nylGZgsEceyyP/preview"
           },
           {
@@ -765,7 +766,7 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Image Transformation & Filtering",
+            "name": "ITF",
             "link": "https://drive.google.com/file/d/1IdXo5IjSBWzw1uj3bSiSz5lq-nyMI3t2/preview"
           },
           {
@@ -780,7 +781,7 @@
           },
           {
             "unit_id": "Unit5",
-            "name": "Image Segmentation & Representation",
+            "name": "ISR",
             "link": "https://drive.google.com/file/d/18qgRv_laXmF7hC2OUPC_3y1uyqd56e9d/preview"
           }
         ]
@@ -800,12 +801,12 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Public Key Cryptosystems with Applications",
+            "name": "Public Key with Applications ",
             "link": "https://drive.google.com/file/d/1u-iDn3FmCgOwKZrnfTfinuoPjQMnLArb/preview"
           },
           {
             "unit_id": "Unit4",
-            "name": "Cryptographic Hash Functions, their applications",
+            "name": "Cryptographic Hash Functions",
             "link": "https://drive.google.com/file/d/1SBkKjDbBk-3sC33OhhSEB6N2WIQ1g1QI/preview"
           }
         ]
@@ -825,7 +826,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Introduction to Statistical Learning Theory",
+            "name": "Statistical Learning Theory",
             "link": "https://drive.google.com/file/d/1qDvow_AlUDxPVRbUVsT01HU4CLfsQDMm/preview"
           },
           {
@@ -835,7 +836,7 @@
           },
           {
             "unit_id": "Unit5",
-            "name": "Recommended system",
+            "name": "RS",
             "link": "https://drive.google.com/file/d/15h4OB1U8G6736HN-tuMqQP0pkXMrzQNk/preview"
           }
         ]
@@ -862,7 +863,7 @@
           },
           {
             "unit_id": "Unit3",
-            "name": "Architecture and Reference Model",
+            "name": "Architecture & Reference Model",
             "link": "https://drive.google.com/file/d/1ojgZeXNth_hTp7JGoS498Ly2-Lus9XAM/preview"
           },
           {
@@ -894,7 +895,7 @@
           },
           {
             "unit_id": "Unit2",
-            "name": "Map Reduce Programs",
+            "name": "MRP",
             "link": "https://drive.google.com/file/d/1iJ_MgFBe5Od3nS-w0m25Ch21Ms5Utgfb/preview"
           },
           {
@@ -909,7 +910,7 @@
           },
           {
             "unit_id": "Unit5",
-            "name": "Applying Structure to Hadoop Data with Hive",
+            "name": "Hadoop Data with Hive",
             "link": "https://drive.google.com/file/d/1IMdocLRK2le0WKNdCncVzdNuxFN4Dprk/preview"
           }
         ]
